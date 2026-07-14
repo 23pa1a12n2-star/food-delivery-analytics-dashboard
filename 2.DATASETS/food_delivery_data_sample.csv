@@ -1,0 +1,1001 @@
+Order ID,Order Value,Delivery Fee,Cuisine,Meal Type,City,Time Taken for Delivery
+ORD100000,543.27,45,Chinese,Breakfast,Delhi,19
+ORD100001,1148.25,20,Fast Food,Dinner,Chennai,45
+ORD100002,918.59,0,Indian,Dinner,Hyderabad,17
+ORD100003,778.59,30,Indian,Dinner,Mumbai,52
+ORD100004,313.82,20,Fast Food,Lunch,Chennai,58
+ORD100005,313.79,30,Fast Food,Lunch,Chennai,58
+ORD100006,210.99,0,Fast Food,Evening Snack,Bangalore,36
+ORD100007,1059.48,30,Fast Food,Breakfast,Delhi,58
+ORD100008,781.17,20,Indian,Dinner,Chennai,46
+ORD100009,893.48,20,Fast Food,Lunch,Delhi,16
+ORD100010,171.61,60,Continental,Lunch,Hyderabad,20
+ORD100011,1168.41,20,Indian,Breakfast,Delhi,27
+ORD100012,1024.06,30,Chinese,Lunch,Delhi,52
+ORD100013,372.96,30,Fast Food,Lunch,Chennai,31
+ORD100014,340.92,0,Fast Food,Lunch,Delhi,38
+ORD100015,342.57,30,Italian,Lunch,Mumbai,55
+ORD100016,469.45,20,Continental,Lunch,Chennai,64
+ORD100017,700.99,30,Continental,Dinner,Chennai,52
+ORD100018,603.54,30,Italian,Breakfast,Mumbai,61
+ORD100019,455.79,20,Continental,Lunch,Hyderabad,28
+ORD100020,792.45,20,Italian,Breakfast,Mumbai,38
+ORD100021,296.47,30,Continental,Dinner,Delhi,29
+ORD100022,456.75,30,Italian,Dinner,Chennai,20
+ORD100023,534.68,30,Italian,Evening Snack,Hyderabad,54
+ORD100024,628.87,0,Chinese,Evening Snack,Chennai,52
+ORD100025,974.43,30,Italian,Breakfast,Mumbai,21
+ORD100026,359.66,20,Fast Food,Lunch,Hyderabad,22
+ORD100027,689.95,30,Fast Food,Evening Snack,Chennai,40
+ORD100028,772.04,0,Italian,Dinner,Hyderabad,26
+ORD100029,198.77,20,Mexican,Breakfast,Hyderabad,60
+ORD100030,787.92,30,Continental,Breakfast,Chennai,31
+ORD100031,329.05,20,Fast Food,Lunch,Chennai,32
+ORD100032,218.3,45,Continental,Lunch,Delhi,57
+ORD100033,1146.33,30,Indian,Evening Snack,Mumbai,61
+ORD100034,1163.91,45,Italian,Dinner,Mumbai,48
+ORD100035,998.82,20,Italian,Evening Snack,Bangalore,60
+ORD100036,469.84,0,Continental,Dinner,Bangalore,18
+ORD100037,252.56,30,Fast Food,Evening Snack,Bangalore,22
+ORD100038,868.44,20,Indian,Lunch,Mumbai,43
+ORD100039,612.16,20,Chinese,Dinner,Bangalore,19
+ORD100040,278.14,30,Italian,Breakfast,Delhi,50
+ORD100041,669.94,30,Mexican,Evening Snack,Mumbai,21
+ORD100042,186.11,0,Continental,Dinner,Hyderabad,44
+ORD100043,1104.79,30,Indian,Lunch,Delhi,50
+ORD100044,421.72,20,Italian,Breakfast,Chennai,22
+ORD100045,845.65,30,Fast Food,Breakfast,Bangalore,42
+ORD100046,477.3,20,Indian,Dinner,Chennai,61
+ORD100047,696.07,20,Mexican,Lunch,Chennai,22
+ORD100048,724.05,30,Indian,Lunch,Bangalore,17
+ORD100049,344.1,30,Continental,Lunch,Chennai,32
+ORD100050,1168.06,20,Chinese,Lunch,Mumbai,27
+ORD100051,963.89,30,Chinese,Dinner,Hyderabad,63
+ORD100052,1136.47,20,Chinese,Lunch,Hyderabad,41
+ORD100053,1089.57,45,Fast Food,Breakfast,Bangalore,32
+ORD100054,777.79,30,Fast Food,Lunch,Delhi,60
+ORD100055,1117.97,30,Indian,Lunch,Chennai,19
+ORD100056,242.92,20,Fast Food,Lunch,Delhi,50
+ORD100057,355.78,20,Italian,Lunch,Mumbai,37
+ORD100058,197.49,20,Italian,Dinner,Chennai,35
+ORD100059,491.6,20,Italian,Dinner,Hyderabad,61
+ORD100060,558.11,20,Mexican,Dinner,Delhi,41
+ORD100061,434.92,20,Italian,Dinner,Chennai,38
+ORD100062,1020.17,30,Continental,Evening Snack,Hyderabad,56
+ORD100063,524.59,0,Indian,Dinner,Bangalore,55
+ORD100064,444.98,45,Continental,Dinner,Mumbai,35
+ORD100065,719.83,0,Chinese,Lunch,Bangalore,52
+ORD100066,297.97,60,Continental,Dinner,Mumbai,21
+ORD100067,992.31,60,Continental,Evening Snack,Chennai,40
+ORD100068,228.28,20,Continental,Dinner,Hyderabad,48
+ORD100069,1186.23,60,Mexican,Evening Snack,Mumbai,59
+ORD100070,960.86,45,Indian,Dinner,Mumbai,42
+ORD100071,358.65,0,Fast Food,Evening Snack,Chennai,15
+ORD100072,155.8,60,Italian,Lunch,Mumbai,37
+ORD100073,1006.23,0,Continental,Evening Snack,Delhi,62
+ORD100074,892.2,0,Fast Food,Dinner,Delhi,56
+ORD100075,915.46,30,Chinese,Evening Snack,Hyderabad,23
+ORD100076,959.83,0,Fast Food,Dinner,Chennai,42
+ORD100077,227.75,0,Indian,Evening Snack,Bangalore,33
+ORD100078,526.39,60,Indian,Lunch,Chennai,27
+ORD100079,271.66,60,Continental,Lunch,Bangalore,18
+ORD100080,1056.26,30,Fast Food,Dinner,Bangalore,57
+ORD100081,804.46,30,Indian,Dinner,Chennai,63
+ORD100082,497.44,60,Indian,Dinner,Mumbai,40
+ORD100083,216.74,0,Fast Food,Dinner,Chennai,34
+ORD100084,476.53,60,Indian,Lunch,Delhi,64
+ORD100085,491.44,20,Indian,Evening Snack,Bangalore,43
+ORD100086,916.09,45,Chinese,Breakfast,Mumbai,54
+ORD100087,819.44,30,Chinese,Breakfast,Delhi,55
+ORD100088,1081.57,60,Chinese,Lunch,Delhi,45
+ORD100089,645.83,45,Italian,Evening Snack,Bangalore,26
+ORD100090,275.57,45,Chinese,Dinner,Delhi,48
+ORD100091,898.91,30,Italian,Lunch,Hyderabad,48
+ORD100092,948.82,45,Continental,Dinner,Delhi,61
+ORD100093,739.34,30,Indian,Dinner,Hyderabad,38
+ORD100094,959.52,0,Chinese,Lunch,Mumbai,24
+ORD100095,668.49,30,Continental,Dinner,Chennai,16
+ORD100096,698.87,0,Indian,Lunch,Hyderabad,43
+ORD100097,598.92,45,Continental,Evening Snack,Chennai,39
+ORD100098,176.69,0,Fast Food,Lunch,Hyderabad,31
+ORD100099,263.29,60,Mexican,Dinner,Chennai,61
+ORD100100,183.0,20,Indian,Breakfast,Chennai,32
+ORD100101,818.23,0,Indian,Evening Snack,Delhi,16
+ORD100102,480.07,60,Italian,Dinner,Delhi,45
+ORD100103,684.0,0,Fast Food,Lunch,Mumbai,64
+ORD100104,1102.94,20,Fast Food,Dinner,Delhi,20
+ORD100105,411.76,30,Indian,Lunch,Hyderabad,39
+ORD100106,580.9,20,Continental,Evening Snack,Chennai,57
+ORD100107,943.33,30,Mexican,Lunch,Hyderabad,55
+ORD100108,390.24,30,Mexican,Dinner,Bangalore,19
+ORD100109,230.83,60,Chinese,Breakfast,Delhi,31
+ORD100110,454.24,0,Chinese,Dinner,Chennai,29
+ORD100111,319.28,0,Continental,Dinner,Chennai,23
+ORD100112,1126.18,30,Chinese,Dinner,Bangalore,28
+ORD100113,998.53,20,Mexican,Lunch,Mumbai,33
+ORD100114,815.07,20,Mexican,Dinner,Mumbai,51
+ORD100115,1065.03,20,Italian,Lunch,Bangalore,63
+ORD100116,993.86,30,Indian,Lunch,Chennai,26
+ORD100117,345.9,45,Indian,Breakfast,Delhi,56
+ORD100118,1087.19,0,Chinese,Dinner,Delhi,16
+ORD100119,716.31,20,Continental,Dinner,Chennai,39
+ORD100120,997.81,30,Indian,Breakfast,Mumbai,16
+ORD100121,1090.9,0,Fast Food,Lunch,Mumbai,51
+ORD100122,483.9,30,Indian,Lunch,Delhi,27
+ORD100123,265.55,20,Mexican,Lunch,Mumbai,42
+ORD100124,389.33,20,Chinese,Evening Snack,Bangalore,31
+ORD100125,598.46,20,Continental,Lunch,Mumbai,28
+ORD100126,1008.92,20,Italian,Dinner,Mumbai,47
+ORD100127,1053.77,45,Continental,Dinner,Chennai,53
+ORD100128,157.3,60,Chinese,Lunch,Chennai,26
+ORD100129,686.28,30,Continental,Evening Snack,Chennai,29
+ORD100130,588.28,30,Fast Food,Lunch,Mumbai,28
+ORD100131,383.21,0,Indian,Dinner,Hyderabad,50
+ORD100132,275.86,30,Fast Food,Evening Snack,Hyderabad,56
+ORD100133,504.5,30,Continental,Dinner,Chennai,33
+ORD100134,1140.06,0,Chinese,Breakfast,Bangalore,38
+ORD100135,489.36,0,Continental,Lunch,Hyderabad,15
+ORD100136,694.73,20,Chinese,Evening Snack,Delhi,56
+ORD100137,888.17,0,Indian,Evening Snack,Bangalore,37
+ORD100138,531.81,30,Mexican,Dinner,Chennai,63
+ORD100139,1170.37,60,Continental,Evening Snack,Chennai,18
+ORD100140,1160.57,30,Fast Food,Breakfast,Bangalore,16
+ORD100141,414.37,20,Indian,Dinner,Mumbai,44
+ORD100142,672.11,20,Mexican,Dinner,Hyderabad,57
+ORD100143,465.92,20,Indian,Breakfast,Mumbai,18
+ORD100144,449.08,30,Mexican,Dinner,Mumbai,58
+ORD100145,188.73,20,Mexican,Evening Snack,Delhi,23
+ORD100146,790.04,20,Italian,Lunch,Mumbai,49
+ORD100147,677.81,30,Mexican,Lunch,Chennai,25
+ORD100148,204.05,20,Fast Food,Dinner,Delhi,61
+ORD100149,442.58,0,Mexican,Breakfast,Chennai,18
+ORD100150,1103.68,0,Fast Food,Dinner,Mumbai,16
+ORD100151,401.54,20,Indian,Evening Snack,Mumbai,60
+ORD100152,302.14,30,Chinese,Dinner,Delhi,60
+ORD100153,663.93,20,Mexican,Lunch,Mumbai,37
+ORD100154,1184.93,0,Mexican,Breakfast,Bangalore,17
+ORD100155,404.16,20,Chinese,Lunch,Chennai,53
+ORD100156,855.74,0,Mexican,Evening Snack,Mumbai,41
+ORD100157,949.7,60,Continental,Lunch,Mumbai,56
+ORD100158,399.52,20,Continental,Lunch,Mumbai,55
+ORD100159,914.63,0,Indian,Dinner,Hyderabad,40
+ORD100160,536.17,30,Fast Food,Lunch,Bangalore,16
+ORD100161,813.92,20,Italian,Dinner,Chennai,26
+ORD100162,815.21,30,Continental,Dinner,Hyderabad,31
+ORD100163,712.56,0,Continental,Dinner,Chennai,46
+ORD100164,244.8,60,Mexican,Evening Snack,Delhi,53
+ORD100165,1027.07,60,Mexican,Lunch,Hyderabad,53
+ORD100166,486.82,30,Continental,Lunch,Bangalore,58
+ORD100167,345.84,30,Continental,Breakfast,Mumbai,50
+ORD100168,192.81,20,Fast Food,Dinner,Delhi,27
+ORD100169,770.44,60,Mexican,Lunch,Delhi,48
+ORD100170,861.44,20,Chinese,Breakfast,Chennai,25
+ORD100171,167.42,20,Continental,Dinner,Hyderabad,26
+ORD100172,687.7,0,Italian,Dinner,Bangalore,52
+ORD100173,387.82,20,Chinese,Dinner,Bangalore,27
+ORD100174,827.43,30,Italian,Breakfast,Mumbai,16
+ORD100175,333.08,20,Italian,Lunch,Bangalore,26
+ORD100176,875.48,30,Indian,Breakfast,Mumbai,60
+ORD100177,556.07,20,Mexican,Breakfast,Delhi,34
+ORD100178,1133.57,45,Italian,Dinner,Bangalore,59
+ORD100179,294.4,30,Continental,Lunch,Mumbai,60
+ORD100180,508.12,30,Continental,Lunch,Chennai,19
+ORD100181,269.15,30,Chinese,Dinner,Hyderabad,27
+ORD100182,1120.93,45,Continental,Dinner,Bangalore,55
+ORD100183,1071.21,0,Continental,Dinner,Bangalore,58
+ORD100184,420.84,0,Fast Food,Dinner,Bangalore,19
+ORD100185,842.98,30,Indian,Evening Snack,Mumbai,16
+ORD100186,1008.08,30,Italian,Breakfast,Delhi,47
+ORD100187,732.96,20,Mexican,Lunch,Hyderabad,40
+ORD100188,706.13,20,Chinese,Dinner,Bangalore,28
+ORD100189,403.94,20,Indian,Lunch,Delhi,64
+ORD100190,247.76,20,Italian,Dinner,Delhi,63
+ORD100191,1092.08,60,Italian,Dinner,Chennai,60
+ORD100192,1095.44,20,Continental,Dinner,Bangalore,54
+ORD100193,814.76,30,Continental,Dinner,Chennai,26
+ORD100194,505.98,30,Chinese,Evening Snack,Chennai,40
+ORD100195,516.67,0,Mexican,Breakfast,Chennai,52
+ORD100196,912.25,0,Continental,Dinner,Delhi,15
+ORD100197,1091.97,20,Mexican,Breakfast,Mumbai,44
+ORD100198,1081.44,30,Continental,Dinner,Bangalore,58
+ORD100199,968.87,20,Mexican,Dinner,Hyderabad,20
+ORD100200,824.13,0,Continental,Lunch,Delhi,41
+ORD100201,238.35,20,Fast Food,Lunch,Hyderabad,30
+ORD100202,319.71,0,Continental,Dinner,Bangalore,63
+ORD100203,1093.48,20,Fast Food,Lunch,Chennai,24
+ORD100204,786.75,20,Continental,Breakfast,Hyderabad,59
+ORD100205,159.66,0,Continental,Breakfast,Bangalore,56
+ORD100206,256.55,30,Mexican,Breakfast,Chennai,55
+ORD100207,846.68,20,Indian,Evening Snack,Hyderabad,54
+ORD100208,155.31,30,Chinese,Evening Snack,Chennai,46
+ORD100209,318.85,30,Indian,Evening Snack,Delhi,63
+ORD100210,726.17,45,Mexican,Lunch,Delhi,49
+ORD100211,876.49,0,Chinese,Evening Snack,Chennai,50
+ORD100212,834.56,20,Continental,Evening Snack,Hyderabad,38
+ORD100213,385.48,45,Indian,Dinner,Hyderabad,25
+ORD100214,897.79,45,Chinese,Lunch,Delhi,50
+ORD100215,399.11,0,Indian,Evening Snack,Hyderabad,28
+ORD100216,491.67,0,Mexican,Dinner,Mumbai,34
+ORD100217,933.82,45,Chinese,Lunch,Hyderabad,62
+ORD100218,832.11,0,Continental,Lunch,Hyderabad,23
+ORD100219,1041.68,45,Italian,Dinner,Hyderabad,48
+ORD100220,840.49,60,Continental,Lunch,Hyderabad,17
+ORD100221,746.72,20,Italian,Dinner,Hyderabad,37
+ORD100222,248.36,45,Continental,Dinner,Bangalore,43
+ORD100223,536.1,20,Mexican,Lunch,Hyderabad,54
+ORD100224,428.46,30,Chinese,Dinner,Mumbai,21
+ORD100225,406.19,20,Indian,Lunch,Bangalore,31
+ORD100226,1171.66,0,Fast Food,Lunch,Bangalore,17
+ORD100227,562.75,30,Continental,Dinner,Delhi,56
+ORD100228,1086.65,0,Italian,Lunch,Mumbai,36
+ORD100229,812.7,60,Chinese,Lunch,Delhi,35
+ORD100230,984.55,20,Fast Food,Lunch,Delhi,34
+ORD100231,677.77,0,Indian,Evening Snack,Mumbai,28
+ORD100232,755.75,20,Italian,Evening Snack,Mumbai,59
+ORD100233,667.14,45,Italian,Dinner,Hyderabad,36
+ORD100234,355.01,20,Fast Food,Breakfast,Hyderabad,52
+ORD100235,908.57,45,Chinese,Dinner,Delhi,44
+ORD100236,444.81,0,Mexican,Dinner,Mumbai,28
+ORD100237,175.53,20,Mexican,Evening Snack,Bangalore,53
+ORD100238,827.75,45,Mexican,Lunch,Mumbai,40
+ORD100239,335.97,0,Fast Food,Lunch,Delhi,43
+ORD100240,1137.48,20,Chinese,Dinner,Delhi,41
+ORD100241,1151.63,60,Italian,Dinner,Mumbai,30
+ORD100242,1110.61,30,Chinese,Dinner,Delhi,40
+ORD100243,538.67,30,Mexican,Dinner,Mumbai,35
+ORD100244,166.23,45,Continental,Dinner,Hyderabad,64
+ORD100245,1124.73,30,Chinese,Dinner,Hyderabad,62
+ORD100246,599.59,45,Continental,Dinner,Chennai,59
+ORD100247,1164.99,30,Mexican,Lunch,Chennai,34
+ORD100248,1161.8,30,Chinese,Lunch,Mumbai,29
+ORD100249,1045.66,0,Chinese,Breakfast,Delhi,50
+ORD100250,459.17,60,Continental,Lunch,Mumbai,17
+ORD100251,554.35,30,Indian,Lunch,Chennai,53
+ORD100252,1043.69,20,Continental,Lunch,Chennai,37
+ORD100253,482.77,30,Mexican,Dinner,Bangalore,63
+ORD100254,327.97,20,Continental,Lunch,Delhi,29
+ORD100255,734.64,30,Fast Food,Evening Snack,Bangalore,41
+ORD100256,1132.96,60,Indian,Dinner,Chennai,58
+ORD100257,880.83,0,Mexican,Lunch,Bangalore,61
+ORD100258,748.56,60,Fast Food,Evening Snack,Hyderabad,62
+ORD100259,252.04,0,Chinese,Breakfast,Hyderabad,62
+ORD100260,795.76,20,Chinese,Dinner,Delhi,35
+ORD100261,1189.56,20,Indian,Lunch,Hyderabad,34
+ORD100262,297.09,20,Fast Food,Dinner,Chennai,33
+ORD100263,694.25,30,Mexican,Evening Snack,Hyderabad,44
+ORD100264,1071.24,45,Mexican,Breakfast,Chennai,48
+ORD100265,927.81,20,Chinese,Lunch,Chennai,55
+ORD100266,881.87,0,Continental,Lunch,Mumbai,40
+ORD100267,887.61,30,Continental,Lunch,Delhi,17
+ORD100268,527.47,30,Mexican,Evening Snack,Hyderabad,30
+ORD100269,458.27,60,Indian,Dinner,Bangalore,56
+ORD100270,999.83,0,Indian,Evening Snack,Chennai,22
+ORD100271,1000.62,60,Fast Food,Dinner,Delhi,60
+ORD100272,1060.43,20,Chinese,Lunch,Hyderabad,26
+ORD100273,1108.9,20,Italian,Evening Snack,Mumbai,26
+ORD100274,686.91,60,Fast Food,Breakfast,Chennai,31
+ORD100275,676.59,20,Indian,Dinner,Chennai,27
+ORD100276,988.21,30,Fast Food,Dinner,Bangalore,38
+ORD100277,832.46,30,Italian,Lunch,Delhi,24
+ORD100278,887.07,20,Continental,Lunch,Hyderabad,56
+ORD100279,985.58,30,Chinese,Dinner,Mumbai,63
+ORD100280,1084.51,30,Continental,Evening Snack,Delhi,48
+ORD100281,504.89,0,Indian,Evening Snack,Bangalore,60
+ORD100282,544.36,30,Continental,Dinner,Hyderabad,30
+ORD100283,248.68,60,Mexican,Dinner,Delhi,29
+ORD100284,757.19,20,Continental,Dinner,Bangalore,35
+ORD100285,187.74,60,Italian,Lunch,Delhi,30
+ORD100286,638.88,20,Italian,Lunch,Chennai,40
+ORD100287,719.78,20,Continental,Lunch,Delhi,16
+ORD100288,450.87,30,Indian,Breakfast,Bangalore,15
+ORD100289,770.37,0,Italian,Dinner,Mumbai,22
+ORD100290,182.03,60,Fast Food,Dinner,Hyderabad,16
+ORD100291,189.22,45,Chinese,Dinner,Delhi,29
+ORD100292,1013.73,45,Mexican,Lunch,Chennai,64
+ORD100293,528.2,30,Indian,Dinner,Chennai,54
+ORD100294,283.41,45,Chinese,Breakfast,Bangalore,64
+ORD100295,698.36,30,Indian,Dinner,Chennai,38
+ORD100296,958.49,30,Italian,Lunch,Delhi,45
+ORD100297,376.61,60,Indian,Lunch,Bangalore,46
+ORD100298,804.03,20,Chinese,Dinner,Chennai,50
+ORD100299,239.61,30,Fast Food,Dinner,Hyderabad,33
+ORD100300,204.27,0,Fast Food,Dinner,Chennai,23
+ORD100301,707.92,60,Indian,Dinner,Delhi,55
+ORD100302,717.67,20,Fast Food,Evening Snack,Mumbai,62
+ORD100303,819.3,20,Italian,Lunch,Hyderabad,27
+ORD100304,912.4,0,Continental,Lunch,Hyderabad,18
+ORD100305,1174.64,20,Chinese,Evening Snack,Chennai,61
+ORD100306,692.12,20,Fast Food,Dinner,Bangalore,59
+ORD100307,489.1,30,Continental,Evening Snack,Chennai,40
+ORD100308,984.95,20,Italian,Lunch,Delhi,30
+ORD100309,434.37,30,Chinese,Evening Snack,Bangalore,62
+ORD100310,610.92,0,Continental,Lunch,Chennai,49
+ORD100311,232.38,20,Chinese,Evening Snack,Chennai,46
+ORD100312,176.62,45,Mexican,Dinner,Chennai,18
+ORD100313,1160.78,20,Continental,Lunch,Hyderabad,56
+ORD100314,1027.78,0,Continental,Breakfast,Hyderabad,27
+ORD100315,880.77,60,Mexican,Lunch,Chennai,39
+ORD100316,579.4,0,Italian,Dinner,Bangalore,60
+ORD100317,331.96,0,Mexican,Breakfast,Delhi,25
+ORD100318,314.26,20,Chinese,Dinner,Delhi,45
+ORD100319,412.76,0,Chinese,Dinner,Hyderabad,55
+ORD100320,726.69,0,Chinese,Dinner,Hyderabad,57
+ORD100321,900.33,45,Italian,Lunch,Bangalore,23
+ORD100322,843.21,0,Mexican,Dinner,Chennai,38
+ORD100323,443.93,0,Indian,Lunch,Hyderabad,55
+ORD100324,1152.61,45,Continental,Lunch,Chennai,28
+ORD100325,924.79,20,Mexican,Breakfast,Delhi,47
+ORD100326,732.07,0,Chinese,Dinner,Delhi,60
+ORD100327,792.31,30,Mexican,Evening Snack,Hyderabad,16
+ORD100328,590.58,0,Mexican,Lunch,Bangalore,15
+ORD100329,410.12,20,Italian,Evening Snack,Chennai,42
+ORD100330,523.77,30,Continental,Dinner,Bangalore,49
+ORD100331,945.74,60,Italian,Dinner,Delhi,39
+ORD100332,165.11,20,Fast Food,Breakfast,Hyderabad,22
+ORD100333,271.88,30,Italian,Dinner,Chennai,17
+ORD100334,198.3,0,Chinese,Evening Snack,Hyderabad,25
+ORD100335,192.77,20,Italian,Dinner,Chennai,34
+ORD100336,1048.23,20,Continental,Lunch,Delhi,34
+ORD100337,888.84,20,Chinese,Lunch,Bangalore,49
+ORD100338,647.88,20,Italian,Breakfast,Bangalore,59
+ORD100339,252.73,60,Chinese,Lunch,Delhi,59
+ORD100340,666.2,60,Mexican,Lunch,Chennai,27
+ORD100341,647.15,30,Continental,Lunch,Delhi,62
+ORD100342,331.86,0,Indian,Dinner,Chennai,43
+ORD100343,605.54,30,Indian,Dinner,Chennai,61
+ORD100344,568.43,30,Indian,Breakfast,Hyderabad,26
+ORD100345,796.64,0,Mexican,Lunch,Hyderabad,20
+ORD100346,816.85,20,Italian,Lunch,Mumbai,19
+ORD100347,197.57,0,Fast Food,Breakfast,Delhi,53
+ORD100348,543.34,20,Mexican,Lunch,Mumbai,48
+ORD100349,807.15,0,Indian,Evening Snack,Mumbai,62
+ORD100350,678.29,60,Italian,Evening Snack,Bangalore,15
+ORD100351,1049.31,0,Mexican,Breakfast,Bangalore,21
+ORD100352,841.63,0,Italian,Dinner,Hyderabad,45
+ORD100353,321.08,60,Indian,Lunch,Bangalore,62
+ORD100354,224.1,30,Continental,Dinner,Bangalore,45
+ORD100355,824.54,30,Indian,Dinner,Bangalore,62
+ORD100356,177.84,20,Fast Food,Dinner,Chennai,28
+ORD100357,765.06,30,Indian,Lunch,Bangalore,41
+ORD100358,1137.24,0,Chinese,Dinner,Delhi,45
+ORD100359,754.25,20,Fast Food,Dinner,Hyderabad,43
+ORD100360,557.58,30,Italian,Breakfast,Delhi,42
+ORD100361,825.45,30,Chinese,Evening Snack,Chennai,27
+ORD100362,631.17,20,Mexican,Evening Snack,Hyderabad,37
+ORD100363,722.9,30,Mexican,Lunch,Hyderabad,58
+ORD100364,1138.54,30,Indian,Dinner,Chennai,27
+ORD100365,555.41,30,Fast Food,Dinner,Bangalore,34
+ORD100366,1159.25,0,Chinese,Lunch,Delhi,24
+ORD100367,1100.62,45,Chinese,Lunch,Bangalore,28
+ORD100368,355.58,20,Continental,Evening Snack,Chennai,18
+ORD100369,222.83,20,Continental,Evening Snack,Delhi,53
+ORD100370,255.82,20,Indian,Evening Snack,Delhi,22
+ORD100371,169.13,45,Fast Food,Breakfast,Chennai,41
+ORD100372,249.17,60,Fast Food,Evening Snack,Delhi,40
+ORD100373,867.16,20,Mexican,Evening Snack,Chennai,19
+ORD100374,224.75,30,Continental,Dinner,Chennai,62
+ORD100375,484.92,0,Chinese,Evening Snack,Mumbai,26
+ORD100376,1037.12,0,Chinese,Lunch,Bangalore,29
+ORD100377,174.44,45,Indian,Evening Snack,Chennai,56
+ORD100378,1005.19,0,Italian,Evening Snack,Bangalore,37
+ORD100379,445.95,0,Italian,Evening Snack,Hyderabad,35
+ORD100380,274.07,30,Mexican,Lunch,Delhi,49
+ORD100381,881.57,45,Fast Food,Lunch,Hyderabad,58
+ORD100382,810.39,0,Fast Food,Dinner,Bangalore,61
+ORD100383,1071.35,0,Indian,Dinner,Hyderabad,45
+ORD100384,921.82,0,Continental,Evening Snack,Mumbai,30
+ORD100385,993.65,0,Mexican,Evening Snack,Hyderabad,16
+ORD100386,446.14,0,Continental,Evening Snack,Bangalore,47
+ORD100387,336.31,60,Fast Food,Evening Snack,Delhi,21
+ORD100388,938.15,0,Indian,Breakfast,Hyderabad,16
+ORD100389,997.18,30,Mexican,Breakfast,Mumbai,30
+ORD100390,1190.03,60,Fast Food,Dinner,Chennai,59
+ORD100391,583.25,30,Fast Food,Lunch,Bangalore,55
+ORD100392,540.62,0,Mexican,Evening Snack,Mumbai,39
+ORD100393,965.23,30,Continental,Evening Snack,Delhi,55
+ORD100394,507.84,60,Italian,Evening Snack,Hyderabad,29
+ORD100395,1127.3,20,Italian,Breakfast,Mumbai,19
+ORD100396,1051.33,20,Continental,Breakfast,Mumbai,23
+ORD100397,600.44,20,Chinese,Lunch,Bangalore,42
+ORD100398,938.41,30,Chinese,Evening Snack,Chennai,22
+ORD100399,942.27,20,Mexican,Evening Snack,Mumbai,16
+ORD100400,258.28,30,Continental,Dinner,Bangalore,43
+ORD100401,1097.68,30,Italian,Lunch,Mumbai,63
+ORD100402,680.51,20,Indian,Dinner,Mumbai,46
+ORD100403,1017.78,30,Chinese,Evening Snack,Mumbai,17
+ORD100404,486.05,0,Indian,Breakfast,Hyderabad,49
+ORD100405,1090.3,30,Italian,Breakfast,Mumbai,25
+ORD100406,558.66,30,Continental,Lunch,Bangalore,37
+ORD100407,161.38,30,Chinese,Lunch,Mumbai,53
+ORD100408,1100.65,0,Mexican,Dinner,Hyderabad,64
+ORD100409,245.85,30,Indian,Dinner,Delhi,22
+ORD100410,485.28,20,Fast Food,Evening Snack,Bangalore,28
+ORD100411,1147.57,20,Fast Food,Lunch,Delhi,45
+ORD100412,1148.14,20,Fast Food,Dinner,Bangalore,45
+ORD100413,752.11,0,Chinese,Evening Snack,Delhi,57
+ORD100414,813.43,20,Italian,Evening Snack,Mumbai,27
+ORD100415,620.87,20,Chinese,Lunch,Bangalore,24
+ORD100416,457.87,20,Chinese,Evening Snack,Hyderabad,36
+ORD100417,495.1,30,Continental,Dinner,Bangalore,22
+ORD100418,856.14,20,Continental,Lunch,Delhi,44
+ORD100419,939.99,20,Mexican,Lunch,Delhi,16
+ORD100420,981.16,20,Continental,Lunch,Delhi,60
+ORD100421,979.1,30,Fast Food,Lunch,Mumbai,40
+ORD100422,245.77,30,Italian,Lunch,Hyderabad,31
+ORD100423,669.14,45,Mexican,Lunch,Bangalore,53
+ORD100424,210.44,30,Indian,Dinner,Bangalore,59
+ORD100425,727.01,0,Mexican,Breakfast,Delhi,43
+ORD100426,613.61,30,Continental,Dinner,Delhi,45
+ORD100427,1082.09,20,Mexican,Dinner,Delhi,50
+ORD100428,518.46,20,Mexican,Dinner,Mumbai,54
+ORD100429,272.92,60,Chinese,Evening Snack,Hyderabad,38
+ORD100430,300.14,20,Fast Food,Lunch,Mumbai,24
+ORD100431,949.59,30,Chinese,Dinner,Chennai,21
+ORD100432,799.13,60,Chinese,Breakfast,Bangalore,54
+ORD100433,256.18,0,Mexican,Evening Snack,Chennai,18
+ORD100434,238.31,0,Continental,Dinner,Bangalore,46
+ORD100435,886.02,20,Italian,Evening Snack,Chennai,54
+ORD100436,226.4,0,Italian,Lunch,Hyderabad,56
+ORD100437,1012.95,0,Indian,Lunch,Delhi,18
+ORD100438,891.55,60,Italian,Dinner,Hyderabad,41
+ORD100439,235.42,60,Continental,Breakfast,Bangalore,31
+ORD100440,239.08,30,Italian,Evening Snack,Delhi,60
+ORD100441,1185.97,30,Mexican,Lunch,Mumbai,57
+ORD100442,542.98,0,Mexican,Lunch,Chennai,45
+ORD100443,539.17,30,Chinese,Lunch,Chennai,59
+ORD100444,1003.44,0,Indian,Dinner,Bangalore,63
+ORD100445,1144.61,20,Italian,Dinner,Hyderabad,51
+ORD100446,1185.3,20,Mexican,Dinner,Hyderabad,25
+ORD100447,941.05,30,Fast Food,Lunch,Chennai,30
+ORD100448,545.07,0,Italian,Breakfast,Bangalore,38
+ORD100449,237.68,0,Chinese,Dinner,Delhi,55
+ORD100450,966.0,30,Indian,Dinner,Chennai,48
+ORD100451,736.32,30,Chinese,Lunch,Mumbai,22
+ORD100452,595.43,20,Italian,Breakfast,Mumbai,50
+ORD100453,1101.67,0,Fast Food,Lunch,Mumbai,20
+ORD100454,266.76,45,Italian,Breakfast,Delhi,38
+ORD100455,667.26,0,Chinese,Dinner,Bangalore,37
+ORD100456,161.92,30,Fast Food,Dinner,Mumbai,58
+ORD100457,642.09,0,Continental,Dinner,Bangalore,40
+ORD100458,209.12,30,Chinese,Lunch,Bangalore,30
+ORD100459,274.76,30,Mexican,Lunch,Hyderabad,34
+ORD100460,273.4,45,Continental,Lunch,Bangalore,62
+ORD100461,831.67,20,Continental,Lunch,Bangalore,47
+ORD100462,933.35,0,Italian,Breakfast,Chennai,63
+ORD100463,762.54,45,Fast Food,Lunch,Bangalore,36
+ORD100464,1160.28,20,Chinese,Lunch,Hyderabad,30
+ORD100465,543.61,45,Chinese,Lunch,Mumbai,25
+ORD100466,450.0,30,Mexican,Dinner,Delhi,15
+ORD100467,1062.03,20,Italian,Dinner,Chennai,37
+ORD100468,384.78,60,Mexican,Dinner,Delhi,31
+ORD100469,1161.38,20,Continental,Lunch,Hyderabad,48
+ORD100470,162.76,30,Fast Food,Lunch,Hyderabad,61
+ORD100471,1168.37,30,Italian,Dinner,Chennai,61
+ORD100472,195.32,30,Italian,Dinner,Delhi,27
+ORD100473,1085.7,30,Italian,Evening Snack,Mumbai,22
+ORD100474,704.09,30,Chinese,Evening Snack,Mumbai,54
+ORD100475,1192.61,30,Italian,Lunch,Bangalore,63
+ORD100476,227.49,20,Mexican,Evening Snack,Bangalore,38
+ORD100477,731.55,30,Mexican,Lunch,Hyderabad,33
+ORD100478,1167.77,0,Mexican,Evening Snack,Mumbai,53
+ORD100479,699.25,0,Continental,Evening Snack,Hyderabad,40
+ORD100480,810.87,0,Continental,Breakfast,Mumbai,36
+ORD100481,880.54,20,Continental,Lunch,Chennai,46
+ORD100482,627.27,45,Fast Food,Lunch,Hyderabad,53
+ORD100483,808.94,30,Chinese,Dinner,Hyderabad,48
+ORD100484,763.53,60,Fast Food,Evening Snack,Hyderabad,53
+ORD100485,1096.22,0,Italian,Lunch,Hyderabad,16
+ORD100486,197.72,30,Chinese,Dinner,Hyderabad,37
+ORD100487,445.01,20,Continental,Lunch,Bangalore,38
+ORD100488,1147.93,0,Chinese,Lunch,Delhi,40
+ORD100489,1084.78,45,Fast Food,Lunch,Bangalore,26
+ORD100490,628.44,0,Italian,Evening Snack,Delhi,17
+ORD100491,801.14,20,Mexican,Evening Snack,Delhi,48
+ORD100492,441.25,20,Mexican,Evening Snack,Chennai,46
+ORD100493,347.53,30,Continental,Dinner,Chennai,59
+ORD100494,636.88,30,Chinese,Lunch,Bangalore,30
+ORD100495,521.02,20,Mexican,Lunch,Delhi,17
+ORD100496,762.84,0,Chinese,Evening Snack,Mumbai,24
+ORD100497,231.62,0,Mexican,Evening Snack,Delhi,19
+ORD100498,1173.11,0,Chinese,Lunch,Mumbai,50
+ORD100499,1185.52,45,Mexican,Lunch,Hyderabad,45
+ORD100500,883.07,60,Chinese,Evening Snack,Mumbai,63
+ORD100501,712.9,60,Indian,Dinner,Chennai,20
+ORD100502,475.0,45,Italian,Lunch,Mumbai,47
+ORD100503,1004.48,45,Chinese,Evening Snack,Hyderabad,60
+ORD100504,868.97,45,Fast Food,Dinner,Bangalore,60
+ORD100505,320.75,60,Chinese,Lunch,Chennai,18
+ORD100506,1106.47,45,Fast Food,Lunch,Bangalore,45
+ORD100507,1013.66,20,Fast Food,Lunch,Hyderabad,24
+ORD100508,1147.29,20,Continental,Breakfast,Bangalore,44
+ORD100509,912.01,30,Chinese,Dinner,Hyderabad,33
+ORD100510,794.09,30,Chinese,Lunch,Delhi,31
+ORD100511,589.16,30,Continental,Evening Snack,Delhi,16
+ORD100512,1129.36,30,Indian,Evening Snack,Hyderabad,33
+ORD100513,1059.37,30,Chinese,Dinner,Delhi,61
+ORD100514,197.48,0,Continental,Breakfast,Hyderabad,59
+ORD100515,177.69,20,Italian,Lunch,Bangalore,38
+ORD100516,545.29,45,Mexican,Lunch,Delhi,43
+ORD100517,1001.08,30,Italian,Lunch,Hyderabad,43
+ORD100518,1186.64,20,Indian,Lunch,Hyderabad,64
+ORD100519,307.94,45,Italian,Lunch,Mumbai,61
+ORD100520,773.84,20,Mexican,Lunch,Chennai,62
+ORD100521,549.94,20,Indian,Dinner,Hyderabad,43
+ORD100522,1168.41,20,Italian,Lunch,Mumbai,37
+ORD100523,1034.22,45,Italian,Breakfast,Delhi,45
+ORD100524,1030.25,30,Chinese,Lunch,Chennai,18
+ORD100525,642.13,20,Indian,Dinner,Chennai,19
+ORD100526,585.56,60,Italian,Lunch,Mumbai,60
+ORD100527,437.08,60,Fast Food,Lunch,Mumbai,17
+ORD100528,209.19,30,Mexican,Dinner,Bangalore,26
+ORD100529,1057.96,45,Fast Food,Breakfast,Chennai,26
+ORD100530,1003.55,30,Italian,Evening Snack,Mumbai,57
+ORD100531,1199.7,30,Chinese,Dinner,Chennai,41
+ORD100532,1196.47,20,Mexican,Lunch,Delhi,24
+ORD100533,733.2,20,Continental,Breakfast,Hyderabad,20
+ORD100534,957.44,0,Chinese,Dinner,Chennai,60
+ORD100535,1142.0,45,Italian,Dinner,Chennai,27
+ORD100536,1042.13,0,Fast Food,Breakfast,Bangalore,18
+ORD100537,409.72,20,Chinese,Lunch,Hyderabad,28
+ORD100538,623.07,20,Chinese,Lunch,Chennai,55
+ORD100539,285.62,20,Fast Food,Dinner,Hyderabad,24
+ORD100540,1151.75,20,Mexican,Lunch,Mumbai,52
+ORD100541,786.48,45,Indian,Breakfast,Delhi,62
+ORD100542,390.07,60,Continental,Breakfast,Bangalore,64
+ORD100543,855.29,60,Continental,Evening Snack,Hyderabad,27
+ORD100544,799.03,30,Indian,Lunch,Bangalore,64
+ORD100545,526.07,60,Chinese,Lunch,Delhi,26
+ORD100546,269.24,20,Continental,Dinner,Mumbai,24
+ORD100547,855.15,30,Mexican,Lunch,Delhi,39
+ORD100548,696.32,20,Italian,Evening Snack,Chennai,41
+ORD100549,960.93,45,Mexican,Lunch,Hyderabad,25
+ORD100550,696.17,0,Mexican,Lunch,Chennai,42
+ORD100551,1044.79,30,Italian,Evening Snack,Chennai,36
+ORD100552,729.5,30,Italian,Evening Snack,Hyderabad,49
+ORD100553,738.98,30,Mexican,Lunch,Chennai,58
+ORD100554,1070.49,0,Continental,Lunch,Bangalore,29
+ORD100555,573.66,30,Continental,Lunch,Chennai,25
+ORD100556,290.72,30,Mexican,Lunch,Chennai,41
+ORD100557,180.22,0,Fast Food,Lunch,Mumbai,49
+ORD100558,942.89,30,Fast Food,Dinner,Chennai,33
+ORD100559,801.33,45,Italian,Lunch,Bangalore,17
+ORD100560,889.28,60,Mexican,Breakfast,Delhi,39
+ORD100561,373.61,20,Chinese,Dinner,Mumbai,46
+ORD100562,293.19,0,Chinese,Lunch,Chennai,35
+ORD100563,165.27,20,Chinese,Lunch,Bangalore,19
+ORD100564,518.12,30,Chinese,Dinner,Bangalore,63
+ORD100565,769.41,45,Italian,Lunch,Mumbai,55
+ORD100566,561.86,60,Chinese,Dinner,Chennai,49
+ORD100567,609.35,60,Chinese,Dinner,Hyderabad,42
+ORD100568,1099.37,30,Italian,Breakfast,Chennai,17
+ORD100569,515.67,30,Indian,Breakfast,Chennai,61
+ORD100570,689.69,0,Continental,Lunch,Bangalore,29
+ORD100571,972.84,20,Continental,Breakfast,Delhi,17
+ORD100572,566.37,60,Chinese,Evening Snack,Chennai,42
+ORD100573,803.19,30,Chinese,Dinner,Bangalore,62
+ORD100574,1055.48,20,Chinese,Dinner,Bangalore,47
+ORD100575,1147.0,0,Indian,Dinner,Chennai,60
+ORD100576,304.43,20,Mexican,Lunch,Delhi,17
+ORD100577,1122.92,30,Indian,Evening Snack,Bangalore,46
+ORD100578,666.72,45,Italian,Evening Snack,Bangalore,30
+ORD100579,421.16,0,Continental,Dinner,Delhi,47
+ORD100580,632.09,0,Chinese,Dinner,Bangalore,61
+ORD100581,1179.03,30,Continental,Dinner,Mumbai,63
+ORD100582,667.25,20,Indian,Breakfast,Bangalore,55
+ORD100583,495.19,0,Chinese,Dinner,Hyderabad,23
+ORD100584,815.07,0,Continental,Dinner,Mumbai,15
+ORD100585,402.15,20,Mexican,Lunch,Mumbai,56
+ORD100586,229.66,30,Italian,Breakfast,Hyderabad,28
+ORD100587,285.32,60,Chinese,Lunch,Mumbai,34
+ORD100588,284.45,30,Chinese,Lunch,Hyderabad,60
+ORD100589,309.5,30,Mexican,Breakfast,Delhi,39
+ORD100590,295.77,0,Fast Food,Lunch,Delhi,52
+ORD100591,822.92,30,Chinese,Dinner,Delhi,28
+ORD100592,340.97,30,Continental,Dinner,Hyderabad,40
+ORD100593,512.95,20,Chinese,Dinner,Delhi,20
+ORD100594,1091.63,30,Fast Food,Dinner,Chennai,33
+ORD100595,647.66,20,Fast Food,Dinner,Chennai,46
+ORD100596,850.94,30,Chinese,Lunch,Delhi,31
+ORD100597,330.94,30,Mexican,Breakfast,Bangalore,53
+ORD100598,351.9,30,Fast Food,Lunch,Bangalore,50
+ORD100599,192.91,60,Chinese,Lunch,Chennai,34
+ORD100600,327.38,60,Chinese,Dinner,Delhi,18
+ORD100601,442.52,45,Chinese,Evening Snack,Chennai,16
+ORD100602,335.86,45,Mexican,Dinner,Delhi,40
+ORD100603,243.14,0,Mexican,Breakfast,Delhi,57
+ORD100604,276.67,20,Fast Food,Dinner,Delhi,23
+ORD100605,633.82,0,Continental,Dinner,Bangalore,49
+ORD100606,366.65,20,Mexican,Dinner,Mumbai,22
+ORD100607,532.48,20,Mexican,Lunch,Mumbai,29
+ORD100608,678.59,45,Fast Food,Dinner,Delhi,40
+ORD100609,874.91,30,Chinese,Lunch,Mumbai,58
+ORD100610,191.28,30,Continental,Dinner,Hyderabad,22
+ORD100611,989.38,20,Chinese,Dinner,Chennai,23
+ORD100612,809.3,30,Continental,Dinner,Mumbai,58
+ORD100613,235.85,45,Italian,Dinner,Chennai,42
+ORD100614,1067.26,20,Chinese,Evening Snack,Bangalore,54
+ORD100615,1116.92,60,Continental,Dinner,Delhi,31
+ORD100616,214.13,20,Fast Food,Breakfast,Bangalore,42
+ORD100617,440.72,60,Italian,Breakfast,Hyderabad,56
+ORD100618,996.51,0,Italian,Dinner,Bangalore,43
+ORD100619,935.67,30,Indian,Lunch,Hyderabad,45
+ORD100620,343.75,60,Indian,Dinner,Hyderabad,24
+ORD100621,369.82,30,Indian,Lunch,Hyderabad,24
+ORD100622,539.0,30,Italian,Dinner,Delhi,22
+ORD100623,658.75,30,Continental,Breakfast,Bangalore,62
+ORD100624,799.17,20,Fast Food,Lunch,Mumbai,30
+ORD100625,537.36,0,Fast Food,Evening Snack,Hyderabad,64
+ORD100626,635.66,20,Continental,Breakfast,Delhi,47
+ORD100627,934.84,0,Fast Food,Lunch,Hyderabad,36
+ORD100628,188.52,60,Mexican,Breakfast,Chennai,36
+ORD100629,415.06,45,Chinese,Lunch,Mumbai,22
+ORD100630,899.02,20,Italian,Dinner,Bangalore,20
+ORD100631,1089.97,45,Mexican,Dinner,Delhi,24
+ORD100632,687.26,20,Italian,Lunch,Hyderabad,42
+ORD100633,708.72,0,Indian,Dinner,Mumbai,60
+ORD100634,262.53,30,Fast Food,Breakfast,Bangalore,24
+ORD100635,619.78,20,Italian,Dinner,Hyderabad,41
+ORD100636,709.25,0,Indian,Dinner,Mumbai,26
+ORD100637,404.59,30,Indian,Dinner,Delhi,45
+ORD100638,432.71,60,Fast Food,Dinner,Chennai,47
+ORD100639,546.15,30,Continental,Dinner,Mumbai,25
+ORD100640,171.07,20,Indian,Lunch,Mumbai,54
+ORD100641,488.18,20,Mexican,Breakfast,Bangalore,60
+ORD100642,372.02,30,Chinese,Lunch,Mumbai,33
+ORD100643,493.87,30,Continental,Breakfast,Hyderabad,43
+ORD100644,275.75,45,Continental,Dinner,Delhi,26
+ORD100645,1085.05,60,Fast Food,Dinner,Chennai,17
+ORD100646,773.27,45,Continental,Dinner,Delhi,26
+ORD100647,863.06,30,Chinese,Dinner,Chennai,57
+ORD100648,978.63,20,Fast Food,Lunch,Hyderabad,23
+ORD100649,673.36,30,Italian,Evening Snack,Hyderabad,19
+ORD100650,241.27,30,Continental,Lunch,Hyderabad,21
+ORD100651,713.96,20,Indian,Breakfast,Bangalore,18
+ORD100652,766.18,30,Italian,Lunch,Hyderabad,32
+ORD100653,932.71,20,Continental,Dinner,Bangalore,18
+ORD100654,603.24,45,Continental,Lunch,Mumbai,24
+ORD100655,283.96,20,Mexican,Dinner,Chennai,36
+ORD100656,447.96,45,Mexican,Dinner,Hyderabad,51
+ORD100657,531.24,20,Mexican,Breakfast,Chennai,43
+ORD100658,828.21,30,Fast Food,Lunch,Mumbai,26
+ORD100659,749.32,20,Continental,Dinner,Bangalore,22
+ORD100660,523.9,30,Continental,Breakfast,Bangalore,41
+ORD100661,1185.84,0,Mexican,Dinner,Hyderabad,19
+ORD100662,786.06,20,Indian,Dinner,Delhi,36
+ORD100663,399.09,0,Mexican,Breakfast,Bangalore,26
+ORD100664,256.87,30,Continental,Evening Snack,Mumbai,20
+ORD100665,310.5,45,Continental,Dinner,Hyderabad,30
+ORD100666,408.26,30,Chinese,Dinner,Bangalore,22
+ORD100667,318.72,0,Indian,Dinner,Bangalore,22
+ORD100668,345.9,20,Italian,Dinner,Chennai,20
+ORD100669,449.35,45,Indian,Breakfast,Bangalore,24
+ORD100670,332.04,30,Mexican,Evening Snack,Bangalore,45
+ORD100671,1091.6,0,Fast Food,Lunch,Delhi,52
+ORD100672,234.25,20,Mexican,Lunch,Chennai,21
+ORD100673,700.74,30,Indian,Lunch,Delhi,40
+ORD100674,580.92,0,Fast Food,Dinner,Chennai,25
+ORD100675,1181.5,30,Chinese,Breakfast,Hyderabad,54
+ORD100676,267.64,30,Chinese,Lunch,Chennai,16
+ORD100677,567.75,20,Italian,Lunch,Bangalore,23
+ORD100678,1167.94,30,Mexican,Breakfast,Bangalore,25
+ORD100679,1058.78,45,Continental,Breakfast,Mumbai,53
+ORD100680,1007.93,20,Italian,Lunch,Bangalore,16
+ORD100681,420.8,20,Indian,Evening Snack,Delhi,57
+ORD100682,329.43,30,Chinese,Lunch,Mumbai,56
+ORD100683,852.08,0,Italian,Dinner,Hyderabad,44
+ORD100684,1125.84,45,Fast Food,Lunch,Mumbai,53
+ORD100685,734.6,60,Continental,Breakfast,Mumbai,52
+ORD100686,750.19,60,Chinese,Dinner,Bangalore,30
+ORD100687,443.98,20,Fast Food,Dinner,Hyderabad,36
+ORD100688,957.97,30,Continental,Lunch,Mumbai,63
+ORD100689,346.4,45,Continental,Dinner,Delhi,46
+ORD100690,489.86,20,Chinese,Lunch,Chennai,63
+ORD100691,596.71,0,Continental,Dinner,Mumbai,49
+ORD100692,682.99,20,Italian,Lunch,Mumbai,51
+ORD100693,404.53,45,Chinese,Evening Snack,Hyderabad,52
+ORD100694,270.58,30,Chinese,Dinner,Mumbai,15
+ORD100695,791.15,30,Chinese,Breakfast,Chennai,58
+ORD100696,453.06,30,Mexican,Lunch,Chennai,42
+ORD100697,760.3,30,Mexican,Evening Snack,Mumbai,17
+ORD100698,312.08,0,Chinese,Breakfast,Mumbai,19
+ORD100699,655.2,30,Fast Food,Lunch,Hyderabad,21
+ORD100700,709.22,30,Italian,Dinner,Delhi,39
+ORD100701,204.41,30,Continental,Dinner,Hyderabad,18
+ORD100702,503.43,30,Italian,Dinner,Bangalore,34
+ORD100703,291.14,30,Mexican,Breakfast,Hyderabad,45
+ORD100704,216.54,60,Continental,Lunch,Delhi,38
+ORD100705,1189.46,20,Mexican,Dinner,Chennai,15
+ORD100706,488.47,30,Fast Food,Lunch,Mumbai,64
+ORD100707,1000.37,30,Continental,Dinner,Chennai,64
+ORD100708,417.37,45,Chinese,Breakfast,Bangalore,51
+ORD100709,865.58,30,Chinese,Dinner,Delhi,27
+ORD100710,948.24,0,Chinese,Breakfast,Mumbai,52
+ORD100711,775.42,20,Continental,Lunch,Mumbai,39
+ORD100712,645.15,0,Indian,Dinner,Delhi,30
+ORD100713,582.43,20,Chinese,Evening Snack,Chennai,42
+ORD100714,516.31,30,Italian,Dinner,Bangalore,19
+ORD100715,1126.01,45,Chinese,Lunch,Delhi,22
+ORD100716,1022.15,30,Mexican,Dinner,Mumbai,30
+ORD100717,1163.28,0,Chinese,Lunch,Bangalore,56
+ORD100718,280.51,20,Chinese,Lunch,Hyderabad,53
+ORD100719,917.41,30,Indian,Dinner,Bangalore,26
+ORD100720,1135.26,30,Indian,Dinner,Hyderabad,20
+ORD100721,340.29,45,Mexican,Dinner,Bangalore,40
+ORD100722,219.82,60,Fast Food,Lunch,Bangalore,38
+ORD100723,928.18,45,Italian,Dinner,Chennai,46
+ORD100724,753.2,20,Italian,Lunch,Hyderabad,31
+ORD100725,1033.92,30,Continental,Evening Snack,Chennai,34
+ORD100726,296.76,20,Indian,Lunch,Delhi,24
+ORD100727,985.03,0,Mexican,Breakfast,Hyderabad,52
+ORD100728,361.71,0,Chinese,Breakfast,Hyderabad,63
+ORD100729,321.84,20,Italian,Lunch,Delhi,36
+ORD100730,322.48,0,Continental,Lunch,Delhi,40
+ORD100731,1005.3,45,Continental,Lunch,Mumbai,27
+ORD100732,848.46,20,Chinese,Dinner,Delhi,61
+ORD100733,699.22,45,Continental,Lunch,Chennai,20
+ORD100734,526.77,60,Indian,Lunch,Mumbai,21
+ORD100735,1071.06,60,Mexican,Dinner,Bangalore,17
+ORD100736,562.07,60,Indian,Lunch,Bangalore,59
+ORD100737,1007.43,30,Mexican,Dinner,Chennai,58
+ORD100738,611.09,20,Fast Food,Dinner,Bangalore,52
+ORD100739,545.79,30,Chinese,Lunch,Mumbai,25
+ORD100740,635.81,45,Indian,Dinner,Mumbai,28
+ORD100741,466.45,45,Chinese,Dinner,Chennai,58
+ORD100742,934.99,60,Italian,Breakfast,Mumbai,38
+ORD100743,677.86,30,Continental,Lunch,Hyderabad,58
+ORD100744,393.82,30,Fast Food,Breakfast,Hyderabad,58
+ORD100745,1094.55,60,Mexican,Evening Snack,Chennai,46
+ORD100746,553.09,60,Continental,Lunch,Mumbai,56
+ORD100747,720.73,20,Chinese,Breakfast,Bangalore,38
+ORD100748,1101.8,30,Continental,Evening Snack,Bangalore,58
+ORD100749,805.45,45,Mexican,Breakfast,Chennai,26
+ORD100750,272.74,20,Chinese,Dinner,Mumbai,17
+ORD100751,1136.82,45,Mexican,Dinner,Chennai,45
+ORD100752,809.09,0,Italian,Dinner,Bangalore,52
+ORD100753,501.65,20,Mexican,Evening Snack,Chennai,57
+ORD100754,296.24,20,Continental,Dinner,Bangalore,34
+ORD100755,983.73,30,Indian,Dinner,Mumbai,24
+ORD100756,801.08,0,Chinese,Lunch,Bangalore,28
+ORD100757,710.13,0,Italian,Breakfast,Mumbai,48
+ORD100758,1088.59,60,Indian,Lunch,Hyderabad,34
+ORD100759,978.03,20,Indian,Lunch,Bangalore,43
+ORD100760,309.26,20,Indian,Dinner,Chennai,36
+ORD100761,477.31,30,Chinese,Lunch,Bangalore,51
+ORD100762,410.91,20,Chinese,Lunch,Bangalore,35
+ORD100763,931.14,45,Indian,Dinner,Bangalore,39
+ORD100764,185.21,20,Mexican,Dinner,Delhi,15
+ORD100765,748.38,30,Mexican,Breakfast,Hyderabad,51
+ORD100766,950.58,30,Indian,Dinner,Hyderabad,28
+ORD100767,1070.6,60,Mexican,Breakfast,Mumbai,22
+ORD100768,509.19,20,Indian,Evening Snack,Mumbai,51
+ORD100769,1012.32,20,Chinese,Dinner,Bangalore,35
+ORD100770,266.16,60,Fast Food,Lunch,Mumbai,39
+ORD100771,1038.77,30,Mexican,Evening Snack,Delhi,19
+ORD100772,283.86,30,Italian,Dinner,Bangalore,27
+ORD100773,567.15,20,Chinese,Dinner,Bangalore,55
+ORD100774,987.16,30,Fast Food,Lunch,Chennai,58
+ORD100775,307.41,20,Indian,Dinner,Mumbai,43
+ORD100776,390.71,20,Italian,Evening Snack,Delhi,47
+ORD100777,908.37,30,Fast Food,Breakfast,Hyderabad,16
+ORD100778,906.04,60,Italian,Lunch,Bangalore,53
+ORD100779,823.21,20,Chinese,Breakfast,Bangalore,58
+ORD100780,878.65,20,Italian,Evening Snack,Delhi,52
+ORD100781,719.86,20,Fast Food,Dinner,Delhi,18
+ORD100782,414.39,30,Mexican,Lunch,Hyderabad,16
+ORD100783,512.98,30,Italian,Breakfast,Delhi,48
+ORD100784,340.68,20,Italian,Dinner,Chennai,42
+ORD100785,1103.87,45,Continental,Lunch,Hyderabad,62
+ORD100786,762.56,20,Italian,Dinner,Delhi,50
+ORD100787,570.89,20,Italian,Lunch,Mumbai,46
+ORD100788,635.11,0,Mexican,Dinner,Mumbai,29
+ORD100789,1144.65,0,Italian,Lunch,Hyderabad,17
+ORD100790,311.02,0,Italian,Evening Snack,Mumbai,38
+ORD100791,765.54,20,Fast Food,Breakfast,Bangalore,48
+ORD100792,681.18,30,Chinese,Lunch,Chennai,30
+ORD100793,792.03,0,Continental,Dinner,Delhi,29
+ORD100794,169.02,0,Italian,Dinner,Bangalore,26
+ORD100795,1065.73,0,Indian,Dinner,Bangalore,29
+ORD100796,1128.72,20,Continental,Evening Snack,Chennai,63
+ORD100797,743.39,0,Mexican,Lunch,Mumbai,51
+ORD100798,881.48,0,Italian,Lunch,Hyderabad,20
+ORD100799,1118.62,60,Fast Food,Evening Snack,Delhi,52
+ORD100800,892.6,30,Chinese,Dinner,Mumbai,21
+ORD100801,310.17,30,Chinese,Dinner,Chennai,21
+ORD100802,755.1,45,Mexican,Dinner,Mumbai,42
+ORD100803,787.05,30,Mexican,Dinner,Bangalore,54
+ORD100804,595.34,30,Indian,Dinner,Chennai,20
+ORD100805,923.27,30,Fast Food,Lunch,Chennai,28
+ORD100806,1131.09,30,Mexican,Lunch,Chennai,58
+ORD100807,1121.85,60,Mexican,Lunch,Bangalore,22
+ORD100808,623.38,0,Continental,Evening Snack,Hyderabad,52
+ORD100809,268.9,20,Italian,Lunch,Delhi,20
+ORD100810,1184.08,0,Fast Food,Lunch,Hyderabad,42
+ORD100811,1030.84,45,Indian,Lunch,Bangalore,57
+ORD100812,280.9,20,Indian,Dinner,Hyderabad,33
+ORD100813,1116.88,60,Fast Food,Evening Snack,Hyderabad,19
+ORD100814,1063.39,20,Indian,Lunch,Chennai,19
+ORD100815,694.78,20,Italian,Evening Snack,Chennai,33
+ORD100816,770.84,20,Mexican,Breakfast,Mumbai,40
+ORD100817,568.95,30,Mexican,Dinner,Chennai,55
+ORD100818,207.5,30,Continental,Lunch,Chennai,42
+ORD100819,501.96,20,Continental,Dinner,Bangalore,53
+ORD100820,993.0,30,Indian,Lunch,Bangalore,62
+ORD100821,154.86,20,Fast Food,Lunch,Delhi,32
+ORD100822,500.17,30,Italian,Dinner,Delhi,18
+ORD100823,568.08,30,Mexican,Lunch,Chennai,46
+ORD100824,714.27,45,Italian,Breakfast,Mumbai,18
+ORD100825,1115.85,45,Fast Food,Lunch,Bangalore,35
+ORD100826,513.66,20,Mexican,Evening Snack,Mumbai,22
+ORD100827,514.3,0,Italian,Lunch,Chennai,26
+ORD100828,924.38,45,Italian,Lunch,Mumbai,28
+ORD100829,624.83,0,Indian,Breakfast,Hyderabad,46
+ORD100830,385.84,20,Continental,Dinner,Delhi,40
+ORD100831,625.06,0,Chinese,Evening Snack,Bangalore,15
+ORD100832,297.9,20,Italian,Dinner,Mumbai,54
+ORD100833,335.21,30,Fast Food,Evening Snack,Delhi,28
+ORD100834,673.29,20,Chinese,Evening Snack,Hyderabad,56
+ORD100835,589.87,60,Indian,Lunch,Bangalore,58
+ORD100836,1110.59,30,Italian,Lunch,Hyderabad,45
+ORD100837,530.51,30,Indian,Breakfast,Chennai,15
+ORD100838,759.62,20,Chinese,Lunch,Mumbai,15
+ORD100839,813.88,0,Mexican,Lunch,Chennai,57
+ORD100840,163.75,30,Italian,Lunch,Chennai,60
+ORD100841,846.71,30,Indian,Lunch,Hyderabad,22
+ORD100842,336.94,30,Fast Food,Dinner,Mumbai,38
+ORD100843,1159.12,20,Chinese,Breakfast,Delhi,64
+ORD100844,306.1,30,Italian,Lunch,Hyderabad,37
+ORD100845,585.36,30,Chinese,Breakfast,Delhi,36
+ORD100846,239.62,30,Fast Food,Evening Snack,Bangalore,23
+ORD100847,1196.72,30,Mexican,Dinner,Chennai,56
+ORD100848,677.3,60,Italian,Evening Snack,Chennai,28
+ORD100849,775.15,30,Indian,Breakfast,Chennai,45
+ORD100850,220.43,0,Indian,Lunch,Bangalore,23
+ORD100851,937.46,30,Indian,Lunch,Chennai,36
+ORD100852,370.4,30,Indian,Lunch,Hyderabad,38
+ORD100853,1092.96,0,Italian,Dinner,Mumbai,35
+ORD100854,365.4,20,Mexican,Dinner,Bangalore,44
+ORD100855,350.22,30,Mexican,Dinner,Hyderabad,20
+ORD100856,188.38,30,Indian,Breakfast,Mumbai,31
+ORD100857,645.67,45,Fast Food,Lunch,Hyderabad,20
+ORD100858,743.08,45,Indian,Breakfast,Delhi,47
+ORD100859,218.99,0,Indian,Lunch,Bangalore,28
+ORD100860,964.3,30,Indian,Breakfast,Mumbai,47
+ORD100861,625.95,30,Italian,Dinner,Mumbai,18
+ORD100862,700.61,20,Mexican,Dinner,Chennai,57
+ORD100863,612.8,0,Continental,Dinner,Delhi,45
+ORD100864,570.8,0,Continental,Breakfast,Delhi,22
+ORD100865,737.62,0,Mexican,Lunch,Hyderabad,38
+ORD100866,313.0,45,Fast Food,Dinner,Mumbai,44
+ORD100867,341.02,0,Fast Food,Evening Snack,Delhi,15
+ORD100868,1054.87,20,Indian,Lunch,Mumbai,55
+ORD100869,1143.42,20,Continental,Dinner,Delhi,28
+ORD100870,541.97,30,Italian,Lunch,Hyderabad,53
+ORD100871,434.28,0,Indian,Dinner,Mumbai,35
+ORD100872,826.2,0,Mexican,Lunch,Mumbai,29
+ORD100873,579.17,20,Mexican,Dinner,Delhi,49
+ORD100874,176.66,20,Chinese,Lunch,Bangalore,25
+ORD100875,313.96,20,Italian,Evening Snack,Hyderabad,27
+ORD100876,901.77,30,Italian,Breakfast,Bangalore,44
+ORD100877,841.87,0,Chinese,Lunch,Bangalore,29
+ORD100878,178.45,0,Fast Food,Breakfast,Hyderabad,58
+ORD100879,383.07,20,Chinese,Lunch,Bangalore,17
+ORD100880,392.63,45,Chinese,Breakfast,Hyderabad,27
+ORD100881,855.49,0,Fast Food,Lunch,Mumbai,59
+ORD100882,170.7,60,Fast Food,Breakfast,Mumbai,57
+ORD100883,259.31,45,Fast Food,Lunch,Delhi,61
+ORD100884,989.91,20,Italian,Lunch,Chennai,29
+ORD100885,337.47,30,Chinese,Lunch,Bangalore,47
+ORD100886,835.38,30,Italian,Lunch,Delhi,54
+ORD100887,400.09,30,Fast Food,Lunch,Chennai,37
+ORD100888,254.41,30,Chinese,Breakfast,Hyderabad,22
+ORD100889,405.33,30,Continental,Dinner,Chennai,20
+ORD100890,908.38,0,Fast Food,Evening Snack,Delhi,36
+ORD100891,1048.48,30,Mexican,Lunch,Mumbai,16
+ORD100892,1021.73,30,Italian,Dinner,Mumbai,48
+ORD100893,567.04,20,Indian,Breakfast,Delhi,41
+ORD100894,851.49,60,Indian,Dinner,Delhi,16
+ORD100895,365.23,0,Chinese,Breakfast,Chennai,39
+ORD100896,457.81,60,Chinese,Evening Snack,Hyderabad,63
+ORD100897,1091.15,30,Italian,Evening Snack,Chennai,38
+ORD100898,163.65,30,Continental,Breakfast,Chennai,20
+ORD100899,239.78,45,Indian,Dinner,Delhi,39
+ORD100900,368.28,45,Italian,Evening Snack,Bangalore,32
+ORD100901,177.86,20,Fast Food,Lunch,Mumbai,21
+ORD100902,340.51,30,Indian,Dinner,Delhi,16
+ORD100903,762.19,0,Mexican,Lunch,Chennai,36
+ORD100904,592.5,20,Chinese,Lunch,Bangalore,28
+ORD100905,1087.31,60,Fast Food,Breakfast,Chennai,52
+ORD100906,1008.32,20,Italian,Lunch,Chennai,32
+ORD100907,508.91,0,Chinese,Evening Snack,Mumbai,16
+ORD100908,422.39,30,Italian,Dinner,Hyderabad,18
+ORD100909,548.68,20,Chinese,Dinner,Bangalore,34
+ORD100910,769.81,20,Chinese,Lunch,Hyderabad,57
+ORD100911,431.47,30,Italian,Dinner,Mumbai,62
+ORD100912,805.36,30,Mexican,Breakfast,Mumbai,59
+ORD100913,579.88,20,Indian,Dinner,Mumbai,30
+ORD100914,729.65,30,Italian,Dinner,Delhi,42
+ORD100915,607.93,60,Fast Food,Breakfast,Mumbai,56
+ORD100916,459.19,60,Mexican,Lunch,Chennai,46
+ORD100917,1145.88,30,Continental,Evening Snack,Chennai,58
+ORD100918,951.79,0,Fast Food,Dinner,Mumbai,22
+ORD100919,297.12,20,Chinese,Dinner,Bangalore,21
+ORD100920,1061.89,45,Chinese,Lunch,Hyderabad,51
+ORD100921,661.8,20,Indian,Evening Snack,Chennai,39
+ORD100922,1089.28,60,Indian,Dinner,Chennai,63
+ORD100923,989.85,20,Fast Food,Dinner,Delhi,52
+ORD100924,596.47,45,Chinese,Lunch,Chennai,40
+ORD100925,173.59,0,Chinese,Lunch,Chennai,19
+ORD100926,432.11,20,Italian,Evening Snack,Mumbai,39
+ORD100927,718.72,30,Indian,Lunch,Hyderabad,42
+ORD100928,815.15,45,Italian,Evening Snack,Mumbai,27
+ORD100929,420.78,30,Italian,Dinner,Bangalore,35
+ORD100930,296.32,0,Chinese,Breakfast,Chennai,50
+ORD100931,1026.68,45,Indian,Evening Snack,Bangalore,26
+ORD100932,1183.62,30,Mexican,Dinner,Bangalore,19
+ORD100933,701.97,0,Indian,Lunch,Chennai,42
+ORD100934,330.26,20,Italian,Dinner,Chennai,52
+ORD100935,435.92,30,Italian,Dinner,Delhi,29
+ORD100936,169.31,20,Chinese,Dinner,Mumbai,28
+ORD100937,1110.01,45,Continental,Lunch,Delhi,57
+ORD100938,273.64,20,Indian,Dinner,Bangalore,39
+ORD100939,755.34,30,Mexican,Breakfast,Delhi,62
+ORD100940,437.76,20,Indian,Lunch,Bangalore,24
+ORD100941,731.89,30,Indian,Dinner,Mumbai,62
+ORD100942,833.99,20,Italian,Dinner,Bangalore,15
+ORD100943,1021.23,20,Fast Food,Lunch,Bangalore,44
+ORD100944,366.74,20,Chinese,Dinner,Chennai,44
+ORD100945,161.55,0,Mexican,Breakfast,Chennai,32
+ORD100946,293.73,0,Mexican,Dinner,Mumbai,54
+ORD100947,1095.02,20,Indian,Breakfast,Bangalore,39
+ORD100948,1067.58,0,Indian,Breakfast,Chennai,56
+ORD100949,777.28,0,Fast Food,Breakfast,Chennai,19
+ORD100950,780.54,60,Fast Food,Dinner,Hyderabad,47
+ORD100951,848.29,20,Mexican,Dinner,Chennai,37
+ORD100952,334.14,20,Mexican,Evening Snack,Hyderabad,22
+ORD100953,1110.13,20,Continental,Dinner,Bangalore,42
+ORD100954,589.71,30,Continental,Dinner,Hyderabad,19
+ORD100955,552.3,30,Mexican,Lunch,Mumbai,34
+ORD100956,694.86,20,Chinese,Lunch,Bangalore,62
+ORD100957,199.31,20,Continental,Dinner,Chennai,63
+ORD100958,324.6,30,Italian,Evening Snack,Hyderabad,53
+ORD100959,924.94,60,Italian,Lunch,Mumbai,36
+ORD100960,236.94,45,Fast Food,Dinner,Hyderabad,30
+ORD100961,783.31,0,Italian,Lunch,Hyderabad,64
+ORD100962,407.62,30,Indian,Lunch,Bangalore,32
+ORD100963,558.76,0,Continental,Lunch,Hyderabad,25
+ORD100964,453.13,30,Fast Food,Lunch,Bangalore,50
+ORD100965,523.46,20,Fast Food,Evening Snack,Mumbai,46
+ORD100966,905.0,20,Indian,Lunch,Hyderabad,24
+ORD100967,461.98,30,Chinese,Evening Snack,Hyderabad,33
+ORD100968,744.72,30,Mexican,Lunch,Mumbai,57
+ORD100969,649.85,30,Mexican,Dinner,Chennai,16
+ORD100970,846.85,0,Chinese,Breakfast,Bangalore,34
+ORD100971,1133.67,30,Continental,Dinner,Mumbai,45
+ORD100972,919.2,45,Fast Food,Breakfast,Bangalore,28
+ORD100973,375.69,0,Chinese,Dinner,Bangalore,47
+ORD100974,182.74,20,Fast Food,Dinner,Chennai,19
+ORD100975,425.38,30,Mexican,Dinner,Hyderabad,55
+ORD100976,774.83,20,Mexican,Lunch,Chennai,62
+ORD100977,204.0,30,Fast Food,Dinner,Chennai,20
+ORD100978,671.18,30,Chinese,Lunch,Bangalore,62
+ORD100979,776.68,60,Indian,Lunch,Chennai,45
+ORD100980,500.96,60,Fast Food,Dinner,Hyderabad,44
+ORD100981,959.46,20,Chinese,Dinner,Bangalore,21
+ORD100982,261.93,20,Indian,Lunch,Mumbai,37
+ORD100983,228.89,20,Continental,Evening Snack,Hyderabad,57
+ORD100984,914.6,0,Fast Food,Lunch,Hyderabad,53
+ORD100985,670.27,20,Mexican,Lunch,Mumbai,51
+ORD100986,872.82,30,Italian,Evening Snack,Bangalore,36
+ORD100987,606.57,45,Italian,Breakfast,Hyderabad,25
+ORD100988,408.72,45,Mexican,Evening Snack,Bangalore,28
+ORD100989,1010.06,0,Chinese,Dinner,Delhi,54
+ORD100990,989.39,30,Fast Food,Lunch,Bangalore,35
+ORD100991,879.43,30,Fast Food,Lunch,Chennai,21
+ORD100992,435.75,20,Fast Food,Lunch,Hyderabad,26
+ORD100993,769.74,20,Mexican,Evening Snack,Delhi,19
+ORD100994,529.02,45,Chinese,Lunch,Mumbai,22
+ORD100995,246.16,20,Chinese,Lunch,Bangalore,33
+ORD100996,1113.18,60,Mexican,Evening Snack,Chennai,37
+ORD100997,293.66,30,Italian,Lunch,Hyderabad,54
+ORD100998,1147.75,20,Mexican,Dinner,Hyderabad,60
+ORD100999,618.31,20,Fast Food,Dinner,Chennai,25
