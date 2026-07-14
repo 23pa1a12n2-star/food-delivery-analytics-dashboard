@@ -1,0 +1,67 @@
+ENRICHED DATASET SHAPE: (50000, 12)
+
+COLUMNS: ['Order ID', 'Order Value', 'Delivery Fee', 'Cuisine', 'Meal Type', 'City', 'Time Taken for Delivery', 'Age Group', 'Restaurant Segment', 'Company Type', 'Customer Rating', 'Total Revenue']
+
+FIRST 5 ROWS:
+    Order ID  Order Value  Delivery Fee    Cuisine  Meal Type       City  Time Taken for Delivery Age Group Restaurant Segment Company Type  Customer Rating  Total Revenue
+0  ORD100000       543.27            45    Chinese  Breakfast      Delhi                       19     36-50            Premium   Individual                5         588.27
+1  ORD100001      1148.25            20  Fast Food     Dinner    Chennai                       45       50+            Premium    Corporate                2        1168.25
+2  ORD100002       918.59             0     Indian     Dinner  Hyderabad                       17     18-25             Casual    Corporate                5         918.59
+3  ORD100003       778.59            30     Indian     Dinner     Mumbai                       52     36-50          Fast-Food    Corporate                1         808.59
+4  ORD100004       313.82            20  Fast Food      Lunch    Chennai                       58     36-50          Fast-Food   Individual                1         333.82
+
+=== NEW COLUMN DISTRIBUTIONS ===
+
+--- Age Group ---
+  18-25: 12616 (25.2%)
+  26-35: 12432 (24.9%)
+  36-50: 12430 (24.9%)
+  50+: 12522 (25.0%)
+
+--- Restaurant Segment ---
+  Casual: 16611 (33.2%)
+  Fast-Food: 16562 (33.1%)
+  Premium: 16827 (33.7%)
+
+--- Company Type ---
+  Individual: 25000 (50.0%)
+  Corporate: 25000 (50.0%)
+
+--- Customer Rating ---
+  Rating 5: 5037 (10.1%)
+  Rating 4: 11052 (22.1%)
+  Rating 3: 10065 (20.1%)
+  Rating 2: 9860 (19.7%)
+  Rating 1: 13986 (28.0%)
+
+=== KPIs ===
+Total Revenue: Rs 34,963,717.85
+Avg Order Value (AOV): Rs 673.81
+
+--- Avg Delivery Time by City ---
+  Bangalore: 39.27 min
+  Chennai: 39.38 min
+  Hyderabad: 39.43 min
+  Delhi: 39.49 min
+  Mumbai: 39.63 min
+
+--- Order Volume by City ---
+  Hyderabad: 10135
+  Mumbai: 10077
+  Chennai: 9950
+  Bangalore: 9931
+  Delhi: 9907
+
+--- Avg Rating by Meal Type ---
+  Evening Snack: 2.68
+  Dinner: 2.67
+  Lunch: 2.67
+  Breakfast: 2.64
+
+--- Revenue by Cuisine ---
+  Chinese: Rs 5,889,273.89
+  Italian: Rs 5,835,890.17
+  Indian: Rs 5,832,544.30
+  Continental: Rs 5,820,819.43
+  Mexican: Rs 5,813,409.09
+  Fast Food: Rs 5,771,780.97
