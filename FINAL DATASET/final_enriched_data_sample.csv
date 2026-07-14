@@ -1,0 +1,1001 @@
+Order ID,Order Value,Delivery Fee,Cuisine,Meal Type,City,Time Taken for Delivery,Age Group,Restaurant Segment,Company Type,Customer Rating,Total Revenue
+ORD100000,543.27,45,Chinese,Breakfast,Delhi,19,36-50,Premium,Individual,5,588.27
+ORD100001,1148.25,20,Fast Food,Dinner,Chennai,45,50+,Premium,Corporate,2,1168.25
+ORD100002,918.59,0,Indian,Dinner,Hyderabad,17,18-25,Casual,Corporate,5,918.59
+ORD100003,778.59,30,Indian,Dinner,Mumbai,52,36-50,Fast-Food,Corporate,1,808.59
+ORD100004,313.82,20,Fast Food,Lunch,Chennai,58,36-50,Fast-Food,Individual,1,333.82
+ORD100005,313.79,30,Fast Food,Lunch,Chennai,58,50+,Fast-Food,Individual,1,343.79
+ORD100006,210.99,0,Fast Food,Evening Snack,Bangalore,36,18-25,Fast-Food,Individual,3,210.99
+ORD100007,1059.48,30,Fast Food,Breakfast,Delhi,58,18-25,Casual,Corporate,1,1089.48
+ORD100008,781.17,20,Indian,Dinner,Chennai,46,36-50,Casual,Corporate,2,801.17
+ORD100009,893.48,20,Fast Food,Lunch,Delhi,16,26-35,Casual,Corporate,5,913.48
+ORD100010,171.61,60,Continental,Lunch,Hyderabad,20,36-50,Premium,Individual,4,231.61
+ORD100011,1168.41,20,Indian,Breakfast,Delhi,27,36-50,Premium,Corporate,4,1188.41
+ORD100012,1024.06,30,Chinese,Lunch,Delhi,52,36-50,Premium,Corporate,1,1054.06
+ORD100013,372.96,30,Fast Food,Lunch,Chennai,31,36-50,Casual,Individual,3,402.96
+ORD100014,340.92,0,Fast Food,Lunch,Delhi,38,50+,Premium,Individual,3,340.92
+ORD100015,342.57,30,Italian,Lunch,Mumbai,55,18-25,Fast-Food,Individual,1,372.57
+ORD100016,469.45,20,Continental,Lunch,Chennai,64,50+,Premium,Individual,1,489.45
+ORD100017,700.99,30,Continental,Dinner,Chennai,52,50+,Casual,Corporate,1,730.99
+ORD100018,603.54,30,Italian,Breakfast,Mumbai,61,50+,Casual,Individual,1,633.54
+ORD100019,455.79,20,Continental,Lunch,Hyderabad,28,36-50,Casual,Individual,4,475.79
+ORD100020,792.45,20,Italian,Breakfast,Mumbai,38,26-35,Casual,Corporate,3,812.45
+ORD100021,296.47,30,Continental,Dinner,Delhi,29,18-25,Fast-Food,Individual,4,326.47
+ORD100022,456.75,30,Italian,Dinner,Chennai,20,26-35,Premium,Individual,4,486.75
+ORD100023,534.68,30,Italian,Evening Snack,Hyderabad,54,50+,Premium,Individual,1,564.68
+ORD100024,628.87,0,Chinese,Evening Snack,Chennai,52,50+,Casual,Individual,1,628.87
+ORD100025,974.43,30,Italian,Breakfast,Mumbai,21,26-35,Premium,Corporate,4,1004.43
+ORD100026,359.66,20,Fast Food,Lunch,Hyderabad,22,26-35,Fast-Food,Individual,4,379.66
+ORD100027,689.95,30,Fast Food,Evening Snack,Chennai,40,26-35,Casual,Corporate,3,719.95
+ORD100028,772.04,0,Italian,Dinner,Hyderabad,26,50+,Premium,Corporate,4,772.04
+ORD100029,198.77,20,Mexican,Breakfast,Hyderabad,60,50+,Premium,Individual,1,218.77
+ORD100030,787.92,30,Continental,Breakfast,Chennai,31,18-25,Premium,Corporate,3,817.92
+ORD100031,329.05,20,Fast Food,Lunch,Chennai,32,18-25,Premium,Individual,3,349.05
+ORD100032,218.3,45,Continental,Lunch,Delhi,57,50+,Casual,Individual,1,263.3
+ORD100033,1146.33,30,Indian,Evening Snack,Mumbai,61,26-35,Casual,Corporate,1,1176.33
+ORD100034,1163.91,45,Italian,Dinner,Mumbai,48,26-35,Fast-Food,Corporate,2,1208.91
+ORD100035,998.82,20,Italian,Evening Snack,Bangalore,60,18-25,Casual,Corporate,1,1018.82
+ORD100036,469.84,0,Continental,Dinner,Bangalore,18,50+,Premium,Individual,5,469.84
+ORD100037,252.56,30,Fast Food,Evening Snack,Bangalore,22,18-25,Premium,Individual,4,282.56
+ORD100038,868.44,20,Indian,Lunch,Mumbai,43,18-25,Premium,Corporate,2,888.44
+ORD100039,612.16,20,Chinese,Dinner,Bangalore,19,36-50,Fast-Food,Individual,5,632.16
+ORD100040,278.14,30,Italian,Breakfast,Delhi,50,36-50,Casual,Individual,2,308.14
+ORD100041,669.94,30,Mexican,Evening Snack,Mumbai,21,36-50,Casual,Individual,4,699.94
+ORD100042,186.11,0,Continental,Dinner,Hyderabad,44,26-35,Casual,Individual,2,186.11
+ORD100043,1104.79,30,Indian,Lunch,Delhi,50,50+,Premium,Corporate,2,1134.79
+ORD100044,421.72,20,Italian,Breakfast,Chennai,22,50+,Premium,Individual,4,441.72
+ORD100045,845.65,30,Fast Food,Breakfast,Bangalore,42,50+,Premium,Corporate,2,875.65
+ORD100046,477.3,20,Indian,Dinner,Chennai,61,50+,Fast-Food,Individual,1,497.3
+ORD100047,696.07,20,Mexican,Lunch,Chennai,22,36-50,Fast-Food,Corporate,4,716.07
+ORD100048,724.05,30,Indian,Lunch,Bangalore,17,26-35,Premium,Corporate,5,754.05
+ORD100049,344.1,30,Continental,Lunch,Chennai,32,26-35,Fast-Food,Individual,3,374.1
+ORD100050,1168.06,20,Chinese,Lunch,Mumbai,27,36-50,Fast-Food,Corporate,4,1188.06
+ORD100051,963.89,30,Chinese,Dinner,Hyderabad,63,26-35,Fast-Food,Corporate,1,993.89
+ORD100052,1136.47,20,Chinese,Lunch,Hyderabad,41,36-50,Casual,Corporate,2,1156.47
+ORD100053,1089.57,45,Fast Food,Breakfast,Bangalore,32,50+,Fast-Food,Corporate,3,1134.57
+ORD100054,777.79,30,Fast Food,Lunch,Delhi,60,36-50,Premium,Corporate,1,807.79
+ORD100055,1117.97,30,Indian,Lunch,Chennai,19,50+,Casual,Corporate,5,1147.97
+ORD100056,242.92,20,Fast Food,Lunch,Delhi,50,50+,Fast-Food,Individual,2,262.92
+ORD100057,355.78,20,Italian,Lunch,Mumbai,37,18-25,Premium,Individual,3,375.78
+ORD100058,197.49,20,Italian,Dinner,Chennai,35,36-50,Fast-Food,Individual,3,217.49
+ORD100059,491.6,20,Italian,Dinner,Hyderabad,61,18-25,Premium,Individual,1,511.6
+ORD100060,558.11,20,Mexican,Dinner,Delhi,41,36-50,Premium,Individual,2,578.11
+ORD100061,434.92,20,Italian,Dinner,Chennai,38,36-50,Fast-Food,Individual,3,454.92
+ORD100062,1020.17,30,Continental,Evening Snack,Hyderabad,56,18-25,Fast-Food,Corporate,1,1050.17
+ORD100063,524.59,0,Indian,Dinner,Bangalore,55,18-25,Casual,Individual,1,524.59
+ORD100064,444.98,45,Continental,Dinner,Mumbai,35,36-50,Fast-Food,Individual,3,489.98
+ORD100065,719.83,0,Chinese,Lunch,Bangalore,52,26-35,Premium,Corporate,1,719.83
+ORD100066,297.97,60,Continental,Dinner,Mumbai,21,50+,Casual,Individual,4,357.97
+ORD100067,992.31,60,Continental,Evening Snack,Chennai,40,18-25,Premium,Corporate,3,1052.31
+ORD100068,228.28,20,Continental,Dinner,Hyderabad,48,50+,Premium,Individual,2,248.28
+ORD100069,1186.23,60,Mexican,Evening Snack,Mumbai,59,26-35,Fast-Food,Corporate,1,1246.23
+ORD100070,960.86,45,Indian,Dinner,Mumbai,42,26-35,Premium,Corporate,2,1005.86
+ORD100071,358.65,0,Fast Food,Evening Snack,Chennai,15,26-35,Fast-Food,Individual,5,358.65
+ORD100072,155.8,60,Italian,Lunch,Mumbai,37,18-25,Premium,Individual,3,215.8
+ORD100073,1006.23,0,Continental,Evening Snack,Delhi,62,26-35,Casual,Corporate,1,1006.23
+ORD100074,892.2,0,Fast Food,Dinner,Delhi,56,18-25,Fast-Food,Corporate,1,892.2
+ORD100075,915.46,30,Chinese,Evening Snack,Hyderabad,23,26-35,Casual,Corporate,4,945.46
+ORD100076,959.83,0,Fast Food,Dinner,Chennai,42,50+,Fast-Food,Corporate,2,959.83
+ORD100077,227.75,0,Indian,Evening Snack,Bangalore,33,50+,Casual,Individual,3,227.75
+ORD100078,526.39,60,Indian,Lunch,Chennai,27,36-50,Fast-Food,Individual,4,586.39
+ORD100079,271.66,60,Continental,Lunch,Bangalore,18,50+,Casual,Individual,5,331.66
+ORD100080,1056.26,30,Fast Food,Dinner,Bangalore,57,36-50,Casual,Corporate,1,1086.26
+ORD100081,804.46,30,Indian,Dinner,Chennai,63,50+,Fast-Food,Corporate,1,834.46
+ORD100082,497.44,60,Indian,Dinner,Mumbai,40,18-25,Fast-Food,Individual,3,557.44
+ORD100083,216.74,0,Fast Food,Dinner,Chennai,34,50+,Premium,Individual,3,216.74
+ORD100084,476.53,60,Indian,Lunch,Delhi,64,36-50,Premium,Individual,1,536.53
+ORD100085,491.44,20,Indian,Evening Snack,Bangalore,43,36-50,Fast-Food,Individual,2,511.44
+ORD100086,916.09,45,Chinese,Breakfast,Mumbai,54,26-35,Fast-Food,Corporate,1,961.09
+ORD100087,819.44,30,Chinese,Breakfast,Delhi,55,18-25,Casual,Corporate,1,849.44
+ORD100088,1081.57,60,Chinese,Lunch,Delhi,45,50+,Casual,Corporate,2,1141.57
+ORD100089,645.83,45,Italian,Evening Snack,Bangalore,26,26-35,Premium,Individual,4,690.83
+ORD100090,275.57,45,Chinese,Dinner,Delhi,48,50+,Premium,Individual,2,320.57
+ORD100091,898.91,30,Italian,Lunch,Hyderabad,48,50+,Premium,Corporate,2,928.91
+ORD100092,948.82,45,Continental,Dinner,Delhi,61,26-35,Casual,Corporate,1,993.82
+ORD100093,739.34,30,Indian,Dinner,Hyderabad,38,26-35,Casual,Corporate,3,769.34
+ORD100094,959.52,0,Chinese,Lunch,Mumbai,24,26-35,Casual,Corporate,4,959.52
+ORD100095,668.49,30,Continental,Dinner,Chennai,16,26-35,Premium,Individual,5,698.49
+ORD100096,698.87,0,Indian,Lunch,Hyderabad,43,26-35,Fast-Food,Corporate,2,698.87
+ORD100097,598.92,45,Continental,Evening Snack,Chennai,39,50+,Premium,Individual,3,643.92
+ORD100098,176.69,0,Fast Food,Lunch,Hyderabad,31,26-35,Casual,Individual,3,176.69
+ORD100099,263.29,60,Mexican,Dinner,Chennai,61,18-25,Premium,Individual,1,323.29
+ORD100100,183.0,20,Indian,Breakfast,Chennai,32,36-50,Premium,Individual,3,203.0
+ORD100101,818.23,0,Indian,Evening Snack,Delhi,16,26-35,Premium,Corporate,5,818.23
+ORD100102,480.07,60,Italian,Dinner,Delhi,45,26-35,Premium,Individual,2,540.0699999999999
+ORD100103,684.0,0,Fast Food,Lunch,Mumbai,64,50+,Casual,Corporate,1,684.0
+ORD100104,1102.94,20,Fast Food,Dinner,Delhi,20,26-35,Premium,Corporate,4,1122.94
+ORD100105,411.76,30,Indian,Lunch,Hyderabad,39,26-35,Casual,Individual,3,441.76
+ORD100106,580.9,20,Continental,Evening Snack,Chennai,57,26-35,Premium,Individual,1,600.9
+ORD100107,943.33,30,Mexican,Lunch,Hyderabad,55,50+,Casual,Corporate,1,973.33
+ORD100108,390.24,30,Mexican,Dinner,Bangalore,19,26-35,Fast-Food,Individual,5,420.24
+ORD100109,230.83,60,Chinese,Breakfast,Delhi,31,36-50,Casual,Individual,3,290.83000000000004
+ORD100110,454.24,0,Chinese,Dinner,Chennai,29,50+,Casual,Individual,4,454.24
+ORD100111,319.28,0,Continental,Dinner,Chennai,23,36-50,Fast-Food,Individual,4,319.28
+ORD100112,1126.18,30,Chinese,Dinner,Bangalore,28,50+,Fast-Food,Corporate,4,1156.18
+ORD100113,998.53,20,Mexican,Lunch,Mumbai,33,26-35,Fast-Food,Corporate,3,1018.53
+ORD100114,815.07,20,Mexican,Dinner,Mumbai,51,36-50,Fast-Food,Corporate,1,835.07
+ORD100115,1065.03,20,Italian,Lunch,Bangalore,63,50+,Fast-Food,Corporate,1,1085.03
+ORD100116,993.86,30,Indian,Lunch,Chennai,26,18-25,Fast-Food,Corporate,4,1023.86
+ORD100117,345.9,45,Indian,Breakfast,Delhi,56,26-35,Premium,Individual,1,390.9
+ORD100118,1087.19,0,Chinese,Dinner,Delhi,16,50+,Premium,Corporate,5,1087.19
+ORD100119,716.31,20,Continental,Dinner,Chennai,39,18-25,Fast-Food,Corporate,3,736.31
+ORD100120,997.81,30,Indian,Breakfast,Mumbai,16,50+,Casual,Corporate,5,1027.81
+ORD100121,1090.9,0,Fast Food,Lunch,Mumbai,51,18-25,Casual,Corporate,1,1090.9
+ORD100122,483.9,30,Indian,Lunch,Delhi,27,26-35,Fast-Food,Individual,4,513.9
+ORD100123,265.55,20,Mexican,Lunch,Mumbai,42,36-50,Premium,Individual,2,285.55
+ORD100124,389.33,20,Chinese,Evening Snack,Bangalore,31,18-25,Premium,Individual,3,409.33
+ORD100125,598.46,20,Continental,Lunch,Mumbai,28,50+,Casual,Individual,4,618.46
+ORD100126,1008.92,20,Italian,Dinner,Mumbai,47,26-35,Fast-Food,Corporate,2,1028.92
+ORD100127,1053.77,45,Continental,Dinner,Chennai,53,18-25,Premium,Corporate,1,1098.77
+ORD100128,157.3,60,Chinese,Lunch,Chennai,26,50+,Fast-Food,Individual,4,217.3
+ORD100129,686.28,30,Continental,Evening Snack,Chennai,29,50+,Fast-Food,Corporate,4,716.28
+ORD100130,588.28,30,Fast Food,Lunch,Mumbai,28,50+,Casual,Individual,4,618.28
+ORD100131,383.21,0,Indian,Dinner,Hyderabad,50,18-25,Fast-Food,Individual,2,383.21
+ORD100132,275.86,30,Fast Food,Evening Snack,Hyderabad,56,18-25,Fast-Food,Individual,1,305.86
+ORD100133,504.5,30,Continental,Dinner,Chennai,33,18-25,Casual,Individual,3,534.5
+ORD100134,1140.06,0,Chinese,Breakfast,Bangalore,38,36-50,Premium,Corporate,3,1140.06
+ORD100135,489.36,0,Continental,Lunch,Hyderabad,15,18-25,Fast-Food,Individual,5,489.36
+ORD100136,694.73,20,Chinese,Evening Snack,Delhi,56,18-25,Casual,Corporate,1,714.73
+ORD100137,888.17,0,Indian,Evening Snack,Bangalore,37,18-25,Premium,Corporate,3,888.17
+ORD100138,531.81,30,Mexican,Dinner,Chennai,63,36-50,Fast-Food,Individual,1,561.81
+ORD100139,1170.37,60,Continental,Evening Snack,Chennai,18,18-25,Premium,Corporate,5,1230.37
+ORD100140,1160.57,30,Fast Food,Breakfast,Bangalore,16,50+,Casual,Corporate,5,1190.57
+ORD100141,414.37,20,Indian,Dinner,Mumbai,44,18-25,Fast-Food,Individual,2,434.37
+ORD100142,672.11,20,Mexican,Dinner,Hyderabad,57,50+,Casual,Individual,1,692.11
+ORD100143,465.92,20,Indian,Breakfast,Mumbai,18,50+,Casual,Individual,5,485.92
+ORD100144,449.08,30,Mexican,Dinner,Mumbai,58,50+,Fast-Food,Individual,1,479.08
+ORD100145,188.73,20,Mexican,Evening Snack,Delhi,23,36-50,Casual,Individual,4,208.73
+ORD100146,790.04,20,Italian,Lunch,Mumbai,49,36-50,Premium,Corporate,2,810.04
+ORD100147,677.81,30,Mexican,Lunch,Chennai,25,36-50,Casual,Corporate,4,707.81
+ORD100148,204.05,20,Fast Food,Dinner,Delhi,61,18-25,Fast-Food,Individual,1,224.05
+ORD100149,442.58,0,Mexican,Breakfast,Chennai,18,50+,Fast-Food,Individual,5,442.58
+ORD100150,1103.68,0,Fast Food,Dinner,Mumbai,16,36-50,Premium,Corporate,5,1103.68
+ORD100151,401.54,20,Indian,Evening Snack,Mumbai,60,36-50,Fast-Food,Individual,1,421.54
+ORD100152,302.14,30,Chinese,Dinner,Delhi,60,18-25,Casual,Individual,1,332.14
+ORD100153,663.93,20,Mexican,Lunch,Mumbai,37,36-50,Casual,Individual,3,683.93
+ORD100154,1184.93,0,Mexican,Breakfast,Bangalore,17,18-25,Fast-Food,Corporate,5,1184.93
+ORD100155,404.16,20,Chinese,Lunch,Chennai,53,26-35,Premium,Individual,1,424.16
+ORD100156,855.74,0,Mexican,Evening Snack,Mumbai,41,36-50,Premium,Corporate,2,855.74
+ORD100157,949.7,60,Continental,Lunch,Mumbai,56,26-35,Fast-Food,Corporate,1,1009.7
+ORD100158,399.52,20,Continental,Lunch,Mumbai,55,18-25,Casual,Individual,1,419.52
+ORD100159,914.63,0,Indian,Dinner,Hyderabad,40,50+,Fast-Food,Corporate,3,914.63
+ORD100160,536.17,30,Fast Food,Lunch,Bangalore,16,36-50,Fast-Food,Individual,5,566.17
+ORD100161,813.92,20,Italian,Dinner,Chennai,26,18-25,Premium,Corporate,4,833.92
+ORD100162,815.21,30,Continental,Dinner,Hyderabad,31,50+,Casual,Corporate,3,845.21
+ORD100163,712.56,0,Continental,Dinner,Chennai,46,50+,Premium,Corporate,2,712.56
+ORD100164,244.8,60,Mexican,Evening Snack,Delhi,53,26-35,Premium,Individual,1,304.8
+ORD100165,1027.07,60,Mexican,Lunch,Hyderabad,53,18-25,Casual,Corporate,1,1087.07
+ORD100166,486.82,30,Continental,Lunch,Bangalore,58,50+,Casual,Individual,1,516.8199999999999
+ORD100167,345.84,30,Continental,Breakfast,Mumbai,50,36-50,Casual,Individual,2,375.84
+ORD100168,192.81,20,Fast Food,Dinner,Delhi,27,36-50,Fast-Food,Individual,4,212.81
+ORD100169,770.44,60,Mexican,Lunch,Delhi,48,26-35,Casual,Corporate,2,830.44
+ORD100170,861.44,20,Chinese,Breakfast,Chennai,25,50+,Fast-Food,Corporate,4,881.44
+ORD100171,167.42,20,Continental,Dinner,Hyderabad,26,18-25,Premium,Individual,4,187.42
+ORD100172,687.7,0,Italian,Dinner,Bangalore,52,36-50,Casual,Corporate,1,687.7
+ORD100173,387.82,20,Chinese,Dinner,Bangalore,27,50+,Fast-Food,Individual,4,407.82
+ORD100174,827.43,30,Italian,Breakfast,Mumbai,16,50+,Fast-Food,Corporate,5,857.43
+ORD100175,333.08,20,Italian,Lunch,Bangalore,26,26-35,Fast-Food,Individual,4,353.08
+ORD100176,875.48,30,Indian,Breakfast,Mumbai,60,36-50,Fast-Food,Corporate,1,905.48
+ORD100177,556.07,20,Mexican,Breakfast,Delhi,34,36-50,Premium,Individual,3,576.07
+ORD100178,1133.57,45,Italian,Dinner,Bangalore,59,18-25,Casual,Corporate,1,1178.57
+ORD100179,294.4,30,Continental,Lunch,Mumbai,60,36-50,Casual,Individual,1,324.4
+ORD100180,508.12,30,Continental,Lunch,Chennai,19,18-25,Casual,Individual,5,538.12
+ORD100181,269.15,30,Chinese,Dinner,Hyderabad,27,36-50,Casual,Individual,4,299.15
+ORD100182,1120.93,45,Continental,Dinner,Bangalore,55,26-35,Casual,Corporate,1,1165.93
+ORD100183,1071.21,0,Continental,Dinner,Bangalore,58,36-50,Casual,Corporate,1,1071.21
+ORD100184,420.84,0,Fast Food,Dinner,Bangalore,19,18-25,Fast-Food,Individual,5,420.84
+ORD100185,842.98,30,Indian,Evening Snack,Mumbai,16,18-25,Casual,Corporate,5,872.98
+ORD100186,1008.08,30,Italian,Breakfast,Delhi,47,26-35,Fast-Food,Corporate,2,1038.08
+ORD100187,732.96,20,Mexican,Lunch,Hyderabad,40,36-50,Premium,Corporate,3,752.96
+ORD100188,706.13,20,Chinese,Dinner,Bangalore,28,36-50,Fast-Food,Corporate,4,726.13
+ORD100189,403.94,20,Indian,Lunch,Delhi,64,26-35,Premium,Individual,1,423.94
+ORD100190,247.76,20,Italian,Dinner,Delhi,63,36-50,Casual,Individual,1,267.76
+ORD100191,1092.08,60,Italian,Dinner,Chennai,60,36-50,Premium,Corporate,1,1152.08
+ORD100192,1095.44,20,Continental,Dinner,Bangalore,54,18-25,Premium,Corporate,1,1115.44
+ORD100193,814.76,30,Continental,Dinner,Chennai,26,36-50,Fast-Food,Corporate,4,844.76
+ORD100194,505.98,30,Chinese,Evening Snack,Chennai,40,36-50,Fast-Food,Individual,3,535.98
+ORD100195,516.67,0,Mexican,Breakfast,Chennai,52,26-35,Premium,Individual,1,516.67
+ORD100196,912.25,0,Continental,Dinner,Delhi,15,26-35,Premium,Corporate,5,912.25
+ORD100197,1091.97,20,Mexican,Breakfast,Mumbai,44,50+,Casual,Corporate,2,1111.97
+ORD100198,1081.44,30,Continental,Dinner,Bangalore,58,18-25,Fast-Food,Corporate,1,1111.44
+ORD100199,968.87,20,Mexican,Dinner,Hyderabad,20,36-50,Premium,Corporate,4,988.87
+ORD100200,824.13,0,Continental,Lunch,Delhi,41,36-50,Fast-Food,Corporate,2,824.13
+ORD100201,238.35,20,Fast Food,Lunch,Hyderabad,30,50+,Casual,Individual,4,258.35
+ORD100202,319.71,0,Continental,Dinner,Bangalore,63,36-50,Casual,Individual,1,319.71
+ORD100203,1093.48,20,Fast Food,Lunch,Chennai,24,18-25,Premium,Corporate,4,1113.48
+ORD100204,786.75,20,Continental,Breakfast,Hyderabad,59,50+,Casual,Corporate,1,806.75
+ORD100205,159.66,0,Continental,Breakfast,Bangalore,56,18-25,Premium,Individual,1,159.66
+ORD100206,256.55,30,Mexican,Breakfast,Chennai,55,50+,Fast-Food,Individual,1,286.55
+ORD100207,846.68,20,Indian,Evening Snack,Hyderabad,54,50+,Fast-Food,Corporate,1,866.68
+ORD100208,155.31,30,Chinese,Evening Snack,Chennai,46,26-35,Premium,Individual,2,185.31
+ORD100209,318.85,30,Indian,Evening Snack,Delhi,63,18-25,Premium,Individual,1,348.85
+ORD100210,726.17,45,Mexican,Lunch,Delhi,49,36-50,Premium,Corporate,2,771.17
+ORD100211,876.49,0,Chinese,Evening Snack,Chennai,50,36-50,Fast-Food,Corporate,2,876.49
+ORD100212,834.56,20,Continental,Evening Snack,Hyderabad,38,18-25,Fast-Food,Corporate,3,854.56
+ORD100213,385.48,45,Indian,Dinner,Hyderabad,25,36-50,Casual,Individual,4,430.48
+ORD100214,897.79,45,Chinese,Lunch,Delhi,50,36-50,Casual,Corporate,2,942.79
+ORD100215,399.11,0,Indian,Evening Snack,Hyderabad,28,18-25,Fast-Food,Individual,4,399.11
+ORD100216,491.67,0,Mexican,Dinner,Mumbai,34,50+,Fast-Food,Individual,3,491.67
+ORD100217,933.82,45,Chinese,Lunch,Hyderabad,62,18-25,Premium,Corporate,1,978.82
+ORD100218,832.11,0,Continental,Lunch,Hyderabad,23,50+,Fast-Food,Corporate,4,832.11
+ORD100219,1041.68,45,Italian,Dinner,Hyderabad,48,36-50,Fast-Food,Corporate,2,1086.68
+ORD100220,840.49,60,Continental,Lunch,Hyderabad,17,36-50,Casual,Corporate,5,900.49
+ORD100221,746.72,20,Italian,Dinner,Hyderabad,37,36-50,Casual,Corporate,3,766.72
+ORD100222,248.36,45,Continental,Dinner,Bangalore,43,26-35,Premium,Individual,2,293.36
+ORD100223,536.1,20,Mexican,Lunch,Hyderabad,54,50+,Casual,Individual,1,556.1
+ORD100224,428.46,30,Chinese,Dinner,Mumbai,21,26-35,Premium,Individual,4,458.46
+ORD100225,406.19,20,Indian,Lunch,Bangalore,31,26-35,Fast-Food,Individual,3,426.19
+ORD100226,1171.66,0,Fast Food,Lunch,Bangalore,17,18-25,Fast-Food,Corporate,5,1171.66
+ORD100227,562.75,30,Continental,Dinner,Delhi,56,26-35,Premium,Individual,1,592.75
+ORD100228,1086.65,0,Italian,Lunch,Mumbai,36,18-25,Casual,Corporate,3,1086.65
+ORD100229,812.7,60,Chinese,Lunch,Delhi,35,18-25,Casual,Corporate,3,872.7
+ORD100230,984.55,20,Fast Food,Lunch,Delhi,34,26-35,Fast-Food,Corporate,3,1004.55
+ORD100231,677.77,0,Indian,Evening Snack,Mumbai,28,50+,Casual,Corporate,4,677.77
+ORD100232,755.75,20,Italian,Evening Snack,Mumbai,59,50+,Premium,Corporate,1,775.75
+ORD100233,667.14,45,Italian,Dinner,Hyderabad,36,50+,Fast-Food,Individual,3,712.14
+ORD100234,355.01,20,Fast Food,Breakfast,Hyderabad,52,50+,Casual,Individual,1,375.01
+ORD100235,908.57,45,Chinese,Dinner,Delhi,44,50+,Fast-Food,Corporate,2,953.57
+ORD100236,444.81,0,Mexican,Dinner,Mumbai,28,26-35,Fast-Food,Individual,4,444.81
+ORD100237,175.53,20,Mexican,Evening Snack,Bangalore,53,26-35,Casual,Individual,1,195.53
+ORD100238,827.75,45,Mexican,Lunch,Mumbai,40,36-50,Premium,Corporate,3,872.75
+ORD100239,335.97,0,Fast Food,Lunch,Delhi,43,50+,Casual,Individual,2,335.97
+ORD100240,1137.48,20,Chinese,Dinner,Delhi,41,26-35,Casual,Corporate,2,1157.48
+ORD100241,1151.63,60,Italian,Dinner,Mumbai,30,36-50,Casual,Corporate,4,1211.63
+ORD100242,1110.61,30,Chinese,Dinner,Delhi,40,50+,Casual,Corporate,3,1140.61
+ORD100243,538.67,30,Mexican,Dinner,Mumbai,35,18-25,Casual,Individual,3,568.67
+ORD100244,166.23,45,Continental,Dinner,Hyderabad,64,36-50,Casual,Individual,1,211.23
+ORD100245,1124.73,30,Chinese,Dinner,Hyderabad,62,26-35,Premium,Corporate,1,1154.73
+ORD100246,599.59,45,Continental,Dinner,Chennai,59,18-25,Fast-Food,Individual,1,644.59
+ORD100247,1164.99,30,Mexican,Lunch,Chennai,34,18-25,Premium,Corporate,3,1194.99
+ORD100248,1161.8,30,Chinese,Lunch,Mumbai,29,18-25,Casual,Corporate,4,1191.8
+ORD100249,1045.66,0,Chinese,Breakfast,Delhi,50,36-50,Premium,Corporate,2,1045.66
+ORD100250,459.17,60,Continental,Lunch,Mumbai,17,26-35,Fast-Food,Individual,5,519.1700000000001
+ORD100251,554.35,30,Indian,Lunch,Chennai,53,18-25,Premium,Individual,1,584.35
+ORD100252,1043.69,20,Continental,Lunch,Chennai,37,50+,Casual,Corporate,3,1063.69
+ORD100253,482.77,30,Mexican,Dinner,Bangalore,63,18-25,Fast-Food,Individual,1,512.77
+ORD100254,327.97,20,Continental,Lunch,Delhi,29,18-25,Casual,Individual,4,347.97
+ORD100255,734.64,30,Fast Food,Evening Snack,Bangalore,41,36-50,Casual,Corporate,2,764.64
+ORD100256,1132.96,60,Indian,Dinner,Chennai,58,36-50,Fast-Food,Corporate,1,1192.96
+ORD100257,880.83,0,Mexican,Lunch,Bangalore,61,26-35,Fast-Food,Corporate,1,880.83
+ORD100258,748.56,60,Fast Food,Evening Snack,Hyderabad,62,50+,Casual,Corporate,1,808.56
+ORD100259,252.04,0,Chinese,Breakfast,Hyderabad,62,36-50,Premium,Individual,1,252.04
+ORD100260,795.76,20,Chinese,Dinner,Delhi,35,18-25,Fast-Food,Corporate,3,815.76
+ORD100261,1189.56,20,Indian,Lunch,Hyderabad,34,26-35,Premium,Corporate,3,1209.56
+ORD100262,297.09,20,Fast Food,Dinner,Chennai,33,18-25,Premium,Individual,3,317.09
+ORD100263,694.25,30,Mexican,Evening Snack,Hyderabad,44,18-25,Fast-Food,Corporate,2,724.25
+ORD100264,1071.24,45,Mexican,Breakfast,Chennai,48,36-50,Premium,Corporate,2,1116.24
+ORD100265,927.81,20,Chinese,Lunch,Chennai,55,26-35,Fast-Food,Corporate,1,947.81
+ORD100266,881.87,0,Continental,Lunch,Mumbai,40,50+,Fast-Food,Corporate,3,881.87
+ORD100267,887.61,30,Continental,Lunch,Delhi,17,50+,Fast-Food,Corporate,5,917.61
+ORD100268,527.47,30,Mexican,Evening Snack,Hyderabad,30,36-50,Fast-Food,Individual,4,557.47
+ORD100269,458.27,60,Indian,Dinner,Bangalore,56,36-50,Premium,Individual,1,518.27
+ORD100270,999.83,0,Indian,Evening Snack,Chennai,22,26-35,Premium,Corporate,4,999.83
+ORD100271,1000.62,60,Fast Food,Dinner,Delhi,60,50+,Fast-Food,Corporate,1,1060.62
+ORD100272,1060.43,20,Chinese,Lunch,Hyderabad,26,50+,Fast-Food,Corporate,4,1080.43
+ORD100273,1108.9,20,Italian,Evening Snack,Mumbai,26,50+,Fast-Food,Corporate,4,1128.9
+ORD100274,686.91,60,Fast Food,Breakfast,Chennai,31,18-25,Fast-Food,Corporate,3,746.91
+ORD100275,676.59,20,Indian,Dinner,Chennai,27,50+,Casual,Corporate,4,696.59
+ORD100276,988.21,30,Fast Food,Dinner,Bangalore,38,18-25,Premium,Corporate,3,1018.21
+ORD100277,832.46,30,Italian,Lunch,Delhi,24,26-35,Premium,Corporate,4,862.46
+ORD100278,887.07,20,Continental,Lunch,Hyderabad,56,18-25,Fast-Food,Corporate,1,907.07
+ORD100279,985.58,30,Chinese,Dinner,Mumbai,63,26-35,Casual,Corporate,1,1015.58
+ORD100280,1084.51,30,Continental,Evening Snack,Delhi,48,50+,Casual,Corporate,2,1114.51
+ORD100281,504.89,0,Indian,Evening Snack,Bangalore,60,50+,Casual,Individual,1,504.89
+ORD100282,544.36,30,Continental,Dinner,Hyderabad,30,26-35,Fast-Food,Individual,4,574.36
+ORD100283,248.68,60,Mexican,Dinner,Delhi,29,36-50,Casual,Individual,4,308.68
+ORD100284,757.19,20,Continental,Dinner,Bangalore,35,26-35,Fast-Food,Corporate,3,777.19
+ORD100285,187.74,60,Italian,Lunch,Delhi,30,36-50,Casual,Individual,4,247.74
+ORD100286,638.88,20,Italian,Lunch,Chennai,40,18-25,Fast-Food,Individual,3,658.88
+ORD100287,719.78,20,Continental,Lunch,Delhi,16,18-25,Fast-Food,Corporate,5,739.78
+ORD100288,450.87,30,Indian,Breakfast,Bangalore,15,18-25,Premium,Individual,5,480.87
+ORD100289,770.37,0,Italian,Dinner,Mumbai,22,50+,Fast-Food,Corporate,4,770.37
+ORD100290,182.03,60,Fast Food,Dinner,Hyderabad,16,18-25,Casual,Individual,5,242.03
+ORD100291,189.22,45,Chinese,Dinner,Delhi,29,36-50,Premium,Individual,4,234.22
+ORD100292,1013.73,45,Mexican,Lunch,Chennai,64,18-25,Casual,Corporate,1,1058.73
+ORD100293,528.2,30,Indian,Dinner,Chennai,54,26-35,Fast-Food,Individual,1,558.2
+ORD100294,283.41,45,Chinese,Breakfast,Bangalore,64,26-35,Premium,Individual,1,328.41
+ORD100295,698.36,30,Indian,Dinner,Chennai,38,50+,Fast-Food,Corporate,3,728.36
+ORD100296,958.49,30,Italian,Lunch,Delhi,45,26-35,Fast-Food,Corporate,2,988.49
+ORD100297,376.61,60,Indian,Lunch,Bangalore,46,36-50,Casual,Individual,2,436.61
+ORD100298,804.03,20,Chinese,Dinner,Chennai,50,18-25,Casual,Corporate,2,824.03
+ORD100299,239.61,30,Fast Food,Dinner,Hyderabad,33,50+,Casual,Individual,3,269.61
+ORD100300,204.27,0,Fast Food,Dinner,Chennai,23,18-25,Premium,Individual,4,204.27
+ORD100301,707.92,60,Indian,Dinner,Delhi,55,18-25,Casual,Corporate,1,767.92
+ORD100302,717.67,20,Fast Food,Evening Snack,Mumbai,62,36-50,Fast-Food,Corporate,1,737.67
+ORD100303,819.3,20,Italian,Lunch,Hyderabad,27,26-35,Premium,Corporate,4,839.3
+ORD100304,912.4,0,Continental,Lunch,Hyderabad,18,26-35,Casual,Corporate,5,912.4
+ORD100305,1174.64,20,Chinese,Evening Snack,Chennai,61,18-25,Casual,Corporate,1,1194.64
+ORD100306,692.12,20,Fast Food,Dinner,Bangalore,59,50+,Casual,Corporate,1,712.12
+ORD100307,489.1,30,Continental,Evening Snack,Chennai,40,26-35,Fast-Food,Individual,3,519.1
+ORD100308,984.95,20,Italian,Lunch,Delhi,30,50+,Casual,Corporate,4,1004.95
+ORD100309,434.37,30,Chinese,Evening Snack,Bangalore,62,26-35,Fast-Food,Individual,1,464.37
+ORD100310,610.92,0,Continental,Lunch,Chennai,49,50+,Premium,Individual,2,610.92
+ORD100311,232.38,20,Chinese,Evening Snack,Chennai,46,36-50,Casual,Individual,2,252.38
+ORD100312,176.62,45,Mexican,Dinner,Chennai,18,50+,Fast-Food,Individual,5,221.62
+ORD100313,1160.78,20,Continental,Lunch,Hyderabad,56,36-50,Casual,Corporate,1,1180.78
+ORD100314,1027.78,0,Continental,Breakfast,Hyderabad,27,36-50,Casual,Corporate,4,1027.78
+ORD100315,880.77,60,Mexican,Lunch,Chennai,39,50+,Premium,Corporate,3,940.77
+ORD100316,579.4,0,Italian,Dinner,Bangalore,60,36-50,Premium,Individual,1,579.4
+ORD100317,331.96,0,Mexican,Breakfast,Delhi,25,18-25,Fast-Food,Individual,4,331.96
+ORD100318,314.26,20,Chinese,Dinner,Delhi,45,36-50,Fast-Food,Individual,2,334.26
+ORD100319,412.76,0,Chinese,Dinner,Hyderabad,55,26-35,Fast-Food,Individual,1,412.76
+ORD100320,726.69,0,Chinese,Dinner,Hyderabad,57,50+,Premium,Corporate,1,726.69
+ORD100321,900.33,45,Italian,Lunch,Bangalore,23,18-25,Fast-Food,Corporate,4,945.33
+ORD100322,843.21,0,Mexican,Dinner,Chennai,38,50+,Premium,Corporate,3,843.21
+ORD100323,443.93,0,Indian,Lunch,Hyderabad,55,26-35,Premium,Individual,1,443.93
+ORD100324,1152.61,45,Continental,Lunch,Chennai,28,26-35,Casual,Corporate,4,1197.61
+ORD100325,924.79,20,Mexican,Breakfast,Delhi,47,26-35,Casual,Corporate,2,944.79
+ORD100326,732.07,0,Chinese,Dinner,Delhi,60,36-50,Fast-Food,Corporate,1,732.07
+ORD100327,792.31,30,Mexican,Evening Snack,Hyderabad,16,36-50,Premium,Corporate,5,822.31
+ORD100328,590.58,0,Mexican,Lunch,Bangalore,15,50+,Premium,Individual,5,590.58
+ORD100329,410.12,20,Italian,Evening Snack,Chennai,42,50+,Premium,Individual,2,430.12
+ORD100330,523.77,30,Continental,Dinner,Bangalore,49,18-25,Casual,Individual,2,553.77
+ORD100331,945.74,60,Italian,Dinner,Delhi,39,18-25,Premium,Corporate,3,1005.74
+ORD100332,165.11,20,Fast Food,Breakfast,Hyderabad,22,50+,Fast-Food,Individual,4,185.11
+ORD100333,271.88,30,Italian,Dinner,Chennai,17,36-50,Fast-Food,Individual,5,301.88
+ORD100334,198.3,0,Chinese,Evening Snack,Hyderabad,25,26-35,Casual,Individual,4,198.3
+ORD100335,192.77,20,Italian,Dinner,Chennai,34,50+,Fast-Food,Individual,3,212.77
+ORD100336,1048.23,20,Continental,Lunch,Delhi,34,18-25,Premium,Corporate,3,1068.23
+ORD100337,888.84,20,Chinese,Lunch,Bangalore,49,36-50,Premium,Corporate,2,908.84
+ORD100338,647.88,20,Italian,Breakfast,Bangalore,59,50+,Fast-Food,Individual,1,667.88
+ORD100339,252.73,60,Chinese,Lunch,Delhi,59,50+,Casual,Individual,1,312.73
+ORD100340,666.2,60,Mexican,Lunch,Chennai,27,36-50,Premium,Individual,4,726.2
+ORD100341,647.15,30,Continental,Lunch,Delhi,62,50+,Premium,Individual,1,677.15
+ORD100342,331.86,0,Indian,Dinner,Chennai,43,36-50,Casual,Individual,2,331.86
+ORD100343,605.54,30,Indian,Dinner,Chennai,61,26-35,Premium,Individual,1,635.54
+ORD100344,568.43,30,Indian,Breakfast,Hyderabad,26,36-50,Fast-Food,Individual,4,598.43
+ORD100345,796.64,0,Mexican,Lunch,Hyderabad,20,36-50,Fast-Food,Corporate,4,796.64
+ORD100346,816.85,20,Italian,Lunch,Mumbai,19,36-50,Casual,Corporate,5,836.85
+ORD100347,197.57,0,Fast Food,Breakfast,Delhi,53,50+,Casual,Individual,1,197.57
+ORD100348,543.34,20,Mexican,Lunch,Mumbai,48,50+,Fast-Food,Individual,2,563.34
+ORD100349,807.15,0,Indian,Evening Snack,Mumbai,62,36-50,Casual,Corporate,1,807.15
+ORD100350,678.29,60,Italian,Evening Snack,Bangalore,15,50+,Fast-Food,Corporate,5,738.29
+ORD100351,1049.31,0,Mexican,Breakfast,Bangalore,21,18-25,Casual,Corporate,4,1049.31
+ORD100352,841.63,0,Italian,Dinner,Hyderabad,45,18-25,Fast-Food,Corporate,2,841.63
+ORD100353,321.08,60,Indian,Lunch,Bangalore,62,50+,Premium,Individual,1,381.08
+ORD100354,224.1,30,Continental,Dinner,Bangalore,45,50+,Premium,Individual,2,254.1
+ORD100355,824.54,30,Indian,Dinner,Bangalore,62,36-50,Fast-Food,Corporate,1,854.54
+ORD100356,177.84,20,Fast Food,Dinner,Chennai,28,26-35,Premium,Individual,4,197.84
+ORD100357,765.06,30,Indian,Lunch,Bangalore,41,50+,Fast-Food,Corporate,2,795.06
+ORD100358,1137.24,0,Chinese,Dinner,Delhi,45,18-25,Casual,Corporate,2,1137.24
+ORD100359,754.25,20,Fast Food,Dinner,Hyderabad,43,36-50,Premium,Corporate,2,774.25
+ORD100360,557.58,30,Italian,Breakfast,Delhi,42,50+,Premium,Individual,2,587.58
+ORD100361,825.45,30,Chinese,Evening Snack,Chennai,27,18-25,Premium,Corporate,4,855.45
+ORD100362,631.17,20,Mexican,Evening Snack,Hyderabad,37,18-25,Fast-Food,Individual,3,651.17
+ORD100363,722.9,30,Mexican,Lunch,Hyderabad,58,26-35,Premium,Corporate,1,752.9
+ORD100364,1138.54,30,Indian,Dinner,Chennai,27,36-50,Casual,Corporate,4,1168.54
+ORD100365,555.41,30,Fast Food,Dinner,Bangalore,34,36-50,Premium,Individual,3,585.41
+ORD100366,1159.25,0,Chinese,Lunch,Delhi,24,26-35,Casual,Corporate,4,1159.25
+ORD100367,1100.62,45,Chinese,Lunch,Bangalore,28,26-35,Premium,Corporate,4,1145.62
+ORD100368,355.58,20,Continental,Evening Snack,Chennai,18,36-50,Premium,Individual,5,375.58
+ORD100369,222.83,20,Continental,Evening Snack,Delhi,53,36-50,Casual,Individual,1,242.83
+ORD100370,255.82,20,Indian,Evening Snack,Delhi,22,50+,Premium,Individual,4,275.82
+ORD100371,169.13,45,Fast Food,Breakfast,Chennai,41,50+,Casual,Individual,2,214.13
+ORD100372,249.17,60,Fast Food,Evening Snack,Delhi,40,26-35,Casual,Individual,3,309.17
+ORD100373,867.16,20,Mexican,Evening Snack,Chennai,19,50+,Casual,Corporate,5,887.16
+ORD100374,224.75,30,Continental,Dinner,Chennai,62,18-25,Premium,Individual,1,254.75
+ORD100375,484.92,0,Chinese,Evening Snack,Mumbai,26,50+,Premium,Individual,4,484.92
+ORD100376,1037.12,0,Chinese,Lunch,Bangalore,29,50+,Casual,Corporate,4,1037.12
+ORD100377,174.44,45,Indian,Evening Snack,Chennai,56,18-25,Premium,Individual,1,219.44
+ORD100378,1005.19,0,Italian,Evening Snack,Bangalore,37,26-35,Fast-Food,Corporate,3,1005.19
+ORD100379,445.95,0,Italian,Evening Snack,Hyderabad,35,18-25,Casual,Individual,3,445.95
+ORD100380,274.07,30,Mexican,Lunch,Delhi,49,50+,Casual,Individual,2,304.07
+ORD100381,881.57,45,Fast Food,Lunch,Hyderabad,58,26-35,Fast-Food,Corporate,1,926.57
+ORD100382,810.39,0,Fast Food,Dinner,Bangalore,61,50+,Fast-Food,Corporate,1,810.39
+ORD100383,1071.35,0,Indian,Dinner,Hyderabad,45,18-25,Casual,Corporate,2,1071.35
+ORD100384,921.82,0,Continental,Evening Snack,Mumbai,30,18-25,Fast-Food,Corporate,4,921.82
+ORD100385,993.65,0,Mexican,Evening Snack,Hyderabad,16,50+,Casual,Corporate,5,993.65
+ORD100386,446.14,0,Continental,Evening Snack,Bangalore,47,36-50,Premium,Individual,2,446.14
+ORD100387,336.31,60,Fast Food,Evening Snack,Delhi,21,36-50,Fast-Food,Individual,4,396.31
+ORD100388,938.15,0,Indian,Breakfast,Hyderabad,16,18-25,Casual,Corporate,5,938.15
+ORD100389,997.18,30,Mexican,Breakfast,Mumbai,30,18-25,Casual,Corporate,4,1027.1799999999998
+ORD100390,1190.03,60,Fast Food,Dinner,Chennai,59,36-50,Casual,Corporate,1,1250.03
+ORD100391,583.25,30,Fast Food,Lunch,Bangalore,55,36-50,Fast-Food,Individual,1,613.25
+ORD100392,540.62,0,Mexican,Evening Snack,Mumbai,39,50+,Premium,Individual,3,540.62
+ORD100393,965.23,30,Continental,Evening Snack,Delhi,55,50+,Premium,Corporate,1,995.23
+ORD100394,507.84,60,Italian,Evening Snack,Hyderabad,29,36-50,Fast-Food,Individual,4,567.8399999999999
+ORD100395,1127.3,20,Italian,Breakfast,Mumbai,19,50+,Casual,Corporate,5,1147.3
+ORD100396,1051.33,20,Continental,Breakfast,Mumbai,23,50+,Casual,Corporate,4,1071.33
+ORD100397,600.44,20,Chinese,Lunch,Bangalore,42,26-35,Casual,Individual,2,620.44
+ORD100398,938.41,30,Chinese,Evening Snack,Chennai,22,50+,Fast-Food,Corporate,4,968.41
+ORD100399,942.27,20,Mexican,Evening Snack,Mumbai,16,18-25,Fast-Food,Corporate,5,962.27
+ORD100400,258.28,30,Continental,Dinner,Bangalore,43,50+,Casual,Individual,2,288.28
+ORD100401,1097.68,30,Italian,Lunch,Mumbai,63,50+,Casual,Corporate,1,1127.68
+ORD100402,680.51,20,Indian,Dinner,Mumbai,46,36-50,Casual,Corporate,2,700.51
+ORD100403,1017.78,30,Chinese,Evening Snack,Mumbai,17,18-25,Fast-Food,Corporate,5,1047.78
+ORD100404,486.05,0,Indian,Breakfast,Hyderabad,49,50+,Fast-Food,Individual,2,486.05
+ORD100405,1090.3,30,Italian,Breakfast,Mumbai,25,50+,Premium,Corporate,4,1120.3
+ORD100406,558.66,30,Continental,Lunch,Bangalore,37,26-35,Casual,Individual,3,588.66
+ORD100407,161.38,30,Chinese,Lunch,Mumbai,53,50+,Casual,Individual,1,191.38
+ORD100408,1100.65,0,Mexican,Dinner,Hyderabad,64,50+,Premium,Corporate,1,1100.65
+ORD100409,245.85,30,Indian,Dinner,Delhi,22,26-35,Casual,Individual,4,275.85
+ORD100410,485.28,20,Fast Food,Evening Snack,Bangalore,28,36-50,Premium,Individual,4,505.28
+ORD100411,1147.57,20,Fast Food,Lunch,Delhi,45,50+,Fast-Food,Corporate,2,1167.57
+ORD100412,1148.14,20,Fast Food,Dinner,Bangalore,45,26-35,Premium,Corporate,2,1168.14
+ORD100413,752.11,0,Chinese,Evening Snack,Delhi,57,18-25,Premium,Corporate,1,752.11
+ORD100414,813.43,20,Italian,Evening Snack,Mumbai,27,36-50,Fast-Food,Corporate,4,833.43
+ORD100415,620.87,20,Chinese,Lunch,Bangalore,24,18-25,Casual,Individual,4,640.87
+ORD100416,457.87,20,Chinese,Evening Snack,Hyderabad,36,18-25,Premium,Individual,3,477.87
+ORD100417,495.1,30,Continental,Dinner,Bangalore,22,26-35,Premium,Individual,4,525.1
+ORD100418,856.14,20,Continental,Lunch,Delhi,44,50+,Casual,Corporate,2,876.14
+ORD100419,939.99,20,Mexican,Lunch,Delhi,16,26-35,Premium,Corporate,5,959.99
+ORD100420,981.16,20,Continental,Lunch,Delhi,60,26-35,Fast-Food,Corporate,1,1001.16
+ORD100421,979.1,30,Fast Food,Lunch,Mumbai,40,26-35,Premium,Corporate,3,1009.1
+ORD100422,245.77,30,Italian,Lunch,Hyderabad,31,26-35,Casual,Individual,3,275.77
+ORD100423,669.14,45,Mexican,Lunch,Bangalore,53,36-50,Casual,Individual,1,714.14
+ORD100424,210.44,30,Indian,Dinner,Bangalore,59,50+,Premium,Individual,1,240.44
+ORD100425,727.01,0,Mexican,Breakfast,Delhi,43,18-25,Casual,Corporate,2,727.01
+ORD100426,613.61,30,Continental,Dinner,Delhi,45,18-25,Casual,Individual,2,643.61
+ORD100427,1082.09,20,Mexican,Dinner,Delhi,50,50+,Premium,Corporate,2,1102.09
+ORD100428,518.46,20,Mexican,Dinner,Mumbai,54,18-25,Premium,Individual,1,538.46
+ORD100429,272.92,60,Chinese,Evening Snack,Hyderabad,38,50+,Casual,Individual,3,332.92
+ORD100430,300.14,20,Fast Food,Lunch,Mumbai,24,18-25,Premium,Individual,4,320.14
+ORD100431,949.59,30,Chinese,Dinner,Chennai,21,26-35,Fast-Food,Corporate,4,979.59
+ORD100432,799.13,60,Chinese,Breakfast,Bangalore,54,18-25,Premium,Corporate,1,859.13
+ORD100433,256.18,0,Mexican,Evening Snack,Chennai,18,50+,Casual,Individual,5,256.18
+ORD100434,238.31,0,Continental,Dinner,Bangalore,46,50+,Fast-Food,Individual,2,238.31
+ORD100435,886.02,20,Italian,Evening Snack,Chennai,54,50+,Casual,Corporate,1,906.02
+ORD100436,226.4,0,Italian,Lunch,Hyderabad,56,50+,Casual,Individual,1,226.4
+ORD100437,1012.95,0,Indian,Lunch,Delhi,18,50+,Fast-Food,Corporate,5,1012.95
+ORD100438,891.55,60,Italian,Dinner,Hyderabad,41,36-50,Premium,Corporate,2,951.55
+ORD100439,235.42,60,Continental,Breakfast,Bangalore,31,36-50,Casual,Individual,3,295.42
+ORD100440,239.08,30,Italian,Evening Snack,Delhi,60,18-25,Premium,Individual,1,269.08000000000004
+ORD100441,1185.97,30,Mexican,Lunch,Mumbai,57,50+,Premium,Corporate,1,1215.97
+ORD100442,542.98,0,Mexican,Lunch,Chennai,45,18-25,Fast-Food,Individual,2,542.98
+ORD100443,539.17,30,Chinese,Lunch,Chennai,59,50+,Casual,Individual,1,569.17
+ORD100444,1003.44,0,Indian,Dinner,Bangalore,63,50+,Fast-Food,Corporate,1,1003.44
+ORD100445,1144.61,20,Italian,Dinner,Hyderabad,51,36-50,Fast-Food,Corporate,1,1164.61
+ORD100446,1185.3,20,Mexican,Dinner,Hyderabad,25,36-50,Casual,Corporate,4,1205.3
+ORD100447,941.05,30,Fast Food,Lunch,Chennai,30,26-35,Casual,Corporate,4,971.05
+ORD100448,545.07,0,Italian,Breakfast,Bangalore,38,36-50,Fast-Food,Individual,3,545.07
+ORD100449,237.68,0,Chinese,Dinner,Delhi,55,26-35,Fast-Food,Individual,1,237.68
+ORD100450,966.0,30,Indian,Dinner,Chennai,48,26-35,Fast-Food,Corporate,2,996.0
+ORD100451,736.32,30,Chinese,Lunch,Mumbai,22,26-35,Casual,Corporate,4,766.32
+ORD100452,595.43,20,Italian,Breakfast,Mumbai,50,26-35,Casual,Individual,2,615.43
+ORD100453,1101.67,0,Fast Food,Lunch,Mumbai,20,26-35,Fast-Food,Corporate,4,1101.67
+ORD100454,266.76,45,Italian,Breakfast,Delhi,38,18-25,Casual,Individual,3,311.76
+ORD100455,667.26,0,Chinese,Dinner,Bangalore,37,36-50,Casual,Individual,3,667.26
+ORD100456,161.92,30,Fast Food,Dinner,Mumbai,58,26-35,Casual,Individual,1,191.92
+ORD100457,642.09,0,Continental,Dinner,Bangalore,40,50+,Premium,Individual,3,642.09
+ORD100458,209.12,30,Chinese,Lunch,Bangalore,30,36-50,Premium,Individual,4,239.12
+ORD100459,274.76,30,Mexican,Lunch,Hyderabad,34,36-50,Fast-Food,Individual,3,304.76
+ORD100460,273.4,45,Continental,Lunch,Bangalore,62,26-35,Premium,Individual,1,318.4
+ORD100461,831.67,20,Continental,Lunch,Bangalore,47,18-25,Fast-Food,Corporate,2,851.67
+ORD100462,933.35,0,Italian,Breakfast,Chennai,63,26-35,Fast-Food,Corporate,1,933.35
+ORD100463,762.54,45,Fast Food,Lunch,Bangalore,36,18-25,Casual,Corporate,3,807.54
+ORD100464,1160.28,20,Chinese,Lunch,Hyderabad,30,50+,Fast-Food,Corporate,4,1180.28
+ORD100465,543.61,45,Chinese,Lunch,Mumbai,25,36-50,Fast-Food,Individual,4,588.61
+ORD100466,450.0,30,Mexican,Dinner,Delhi,15,50+,Fast-Food,Individual,5,480.0
+ORD100467,1062.03,20,Italian,Dinner,Chennai,37,18-25,Fast-Food,Corporate,3,1082.03
+ORD100468,384.78,60,Mexican,Dinner,Delhi,31,18-25,Casual,Individual,3,444.78
+ORD100469,1161.38,20,Continental,Lunch,Hyderabad,48,50+,Casual,Corporate,2,1181.38
+ORD100470,162.76,30,Fast Food,Lunch,Hyderabad,61,18-25,Fast-Food,Individual,1,192.76
+ORD100471,1168.37,30,Italian,Dinner,Chennai,61,50+,Premium,Corporate,1,1198.37
+ORD100472,195.32,30,Italian,Dinner,Delhi,27,36-50,Premium,Individual,4,225.32
+ORD100473,1085.7,30,Italian,Evening Snack,Mumbai,22,50+,Fast-Food,Corporate,4,1115.7
+ORD100474,704.09,30,Chinese,Evening Snack,Mumbai,54,36-50,Casual,Corporate,1,734.09
+ORD100475,1192.61,30,Italian,Lunch,Bangalore,63,50+,Fast-Food,Corporate,1,1222.61
+ORD100476,227.49,20,Mexican,Evening Snack,Bangalore,38,18-25,Fast-Food,Individual,3,247.49
+ORD100477,731.55,30,Mexican,Lunch,Hyderabad,33,50+,Casual,Corporate,3,761.55
+ORD100478,1167.77,0,Mexican,Evening Snack,Mumbai,53,18-25,Premium,Corporate,1,1167.77
+ORD100479,699.25,0,Continental,Evening Snack,Hyderabad,40,50+,Fast-Food,Corporate,3,699.25
+ORD100480,810.87,0,Continental,Breakfast,Mumbai,36,50+,Casual,Corporate,3,810.87
+ORD100481,880.54,20,Continental,Lunch,Chennai,46,26-35,Casual,Corporate,2,900.54
+ORD100482,627.27,45,Fast Food,Lunch,Hyderabad,53,18-25,Fast-Food,Individual,1,672.27
+ORD100483,808.94,30,Chinese,Dinner,Hyderabad,48,26-35,Casual,Corporate,2,838.94
+ORD100484,763.53,60,Fast Food,Evening Snack,Hyderabad,53,18-25,Fast-Food,Corporate,1,823.53
+ORD100485,1096.22,0,Italian,Lunch,Hyderabad,16,26-35,Premium,Corporate,5,1096.22
+ORD100486,197.72,30,Chinese,Dinner,Hyderabad,37,36-50,Fast-Food,Individual,3,227.72
+ORD100487,445.01,20,Continental,Lunch,Bangalore,38,50+,Premium,Individual,3,465.01
+ORD100488,1147.93,0,Chinese,Lunch,Delhi,40,18-25,Casual,Corporate,3,1147.93
+ORD100489,1084.78,45,Fast Food,Lunch,Bangalore,26,18-25,Fast-Food,Corporate,4,1129.78
+ORD100490,628.44,0,Italian,Evening Snack,Delhi,17,50+,Casual,Individual,5,628.44
+ORD100491,801.14,20,Mexican,Evening Snack,Delhi,48,18-25,Fast-Food,Corporate,2,821.14
+ORD100492,441.25,20,Mexican,Evening Snack,Chennai,46,18-25,Casual,Individual,2,461.25
+ORD100493,347.53,30,Continental,Dinner,Chennai,59,26-35,Premium,Individual,1,377.53
+ORD100494,636.88,30,Chinese,Lunch,Bangalore,30,18-25,Fast-Food,Individual,4,666.88
+ORD100495,521.02,20,Mexican,Lunch,Delhi,17,36-50,Casual,Individual,5,541.02
+ORD100496,762.84,0,Chinese,Evening Snack,Mumbai,24,36-50,Fast-Food,Corporate,4,762.84
+ORD100497,231.62,0,Mexican,Evening Snack,Delhi,19,50+,Fast-Food,Individual,5,231.62
+ORD100498,1173.11,0,Chinese,Lunch,Mumbai,50,18-25,Premium,Corporate,2,1173.11
+ORD100499,1185.52,45,Mexican,Lunch,Hyderabad,45,50+,Casual,Corporate,2,1230.52
+ORD100500,883.07,60,Chinese,Evening Snack,Mumbai,63,36-50,Fast-Food,Corporate,1,943.07
+ORD100501,712.9,60,Indian,Dinner,Chennai,20,18-25,Fast-Food,Corporate,4,772.9
+ORD100502,475.0,45,Italian,Lunch,Mumbai,47,18-25,Fast-Food,Individual,2,520.0
+ORD100503,1004.48,45,Chinese,Evening Snack,Hyderabad,60,50+,Fast-Food,Corporate,1,1049.48
+ORD100504,868.97,45,Fast Food,Dinner,Bangalore,60,36-50,Fast-Food,Corporate,1,913.97
+ORD100505,320.75,60,Chinese,Lunch,Chennai,18,18-25,Casual,Individual,5,380.75
+ORD100506,1106.47,45,Fast Food,Lunch,Bangalore,45,50+,Fast-Food,Corporate,2,1151.47
+ORD100507,1013.66,20,Fast Food,Lunch,Hyderabad,24,36-50,Fast-Food,Corporate,4,1033.66
+ORD100508,1147.29,20,Continental,Breakfast,Bangalore,44,50+,Fast-Food,Corporate,2,1167.29
+ORD100509,912.01,30,Chinese,Dinner,Hyderabad,33,26-35,Casual,Corporate,3,942.01
+ORD100510,794.09,30,Chinese,Lunch,Delhi,31,18-25,Fast-Food,Corporate,3,824.09
+ORD100511,589.16,30,Continental,Evening Snack,Delhi,16,26-35,Fast-Food,Individual,5,619.16
+ORD100512,1129.36,30,Indian,Evening Snack,Hyderabad,33,36-50,Premium,Corporate,3,1159.36
+ORD100513,1059.37,30,Chinese,Dinner,Delhi,61,26-35,Premium,Corporate,1,1089.37
+ORD100514,197.48,0,Continental,Breakfast,Hyderabad,59,26-35,Fast-Food,Individual,1,197.48
+ORD100515,177.69,20,Italian,Lunch,Bangalore,38,36-50,Fast-Food,Individual,3,197.69
+ORD100516,545.29,45,Mexican,Lunch,Delhi,43,50+,Premium,Individual,2,590.29
+ORD100517,1001.08,30,Italian,Lunch,Hyderabad,43,26-35,Casual,Corporate,2,1031.08
+ORD100518,1186.64,20,Indian,Lunch,Hyderabad,64,50+,Casual,Corporate,1,1206.64
+ORD100519,307.94,45,Italian,Lunch,Mumbai,61,26-35,Premium,Individual,1,352.94
+ORD100520,773.84,20,Mexican,Lunch,Chennai,62,50+,Fast-Food,Corporate,1,793.84
+ORD100521,549.94,20,Indian,Dinner,Hyderabad,43,36-50,Premium,Individual,2,569.94
+ORD100522,1168.41,20,Italian,Lunch,Mumbai,37,26-35,Casual,Corporate,3,1188.41
+ORD100523,1034.22,45,Italian,Breakfast,Delhi,45,36-50,Premium,Corporate,2,1079.22
+ORD100524,1030.25,30,Chinese,Lunch,Chennai,18,26-35,Casual,Corporate,5,1060.25
+ORD100525,642.13,20,Indian,Dinner,Chennai,19,36-50,Fast-Food,Individual,5,662.13
+ORD100526,585.56,60,Italian,Lunch,Mumbai,60,36-50,Fast-Food,Individual,1,645.56
+ORD100527,437.08,60,Fast Food,Lunch,Mumbai,17,26-35,Fast-Food,Individual,5,497.08
+ORD100528,209.19,30,Mexican,Dinner,Bangalore,26,26-35,Casual,Individual,4,239.19
+ORD100529,1057.96,45,Fast Food,Breakfast,Chennai,26,26-35,Premium,Corporate,4,1102.96
+ORD100530,1003.55,30,Italian,Evening Snack,Mumbai,57,18-25,Fast-Food,Corporate,1,1033.55
+ORD100531,1199.7,30,Chinese,Dinner,Chennai,41,50+,Casual,Corporate,2,1229.7
+ORD100532,1196.47,20,Mexican,Lunch,Delhi,24,18-25,Fast-Food,Corporate,4,1216.47
+ORD100533,733.2,20,Continental,Breakfast,Hyderabad,20,18-25,Premium,Corporate,4,753.2
+ORD100534,957.44,0,Chinese,Dinner,Chennai,60,36-50,Fast-Food,Corporate,1,957.44
+ORD100535,1142.0,45,Italian,Dinner,Chennai,27,26-35,Casual,Corporate,4,1187.0
+ORD100536,1042.13,0,Fast Food,Breakfast,Bangalore,18,50+,Casual,Corporate,5,1042.13
+ORD100537,409.72,20,Chinese,Lunch,Hyderabad,28,36-50,Fast-Food,Individual,4,429.72
+ORD100538,623.07,20,Chinese,Lunch,Chennai,55,18-25,Fast-Food,Individual,1,643.07
+ORD100539,285.62,20,Fast Food,Dinner,Hyderabad,24,26-35,Casual,Individual,4,305.62
+ORD100540,1151.75,20,Mexican,Lunch,Mumbai,52,36-50,Fast-Food,Corporate,1,1171.75
+ORD100541,786.48,45,Indian,Breakfast,Delhi,62,26-35,Fast-Food,Corporate,1,831.48
+ORD100542,390.07,60,Continental,Breakfast,Bangalore,64,36-50,Fast-Food,Individual,1,450.07
+ORD100543,855.29,60,Continental,Evening Snack,Hyderabad,27,26-35,Premium,Corporate,4,915.29
+ORD100544,799.03,30,Indian,Lunch,Bangalore,64,18-25,Premium,Corporate,1,829.03
+ORD100545,526.07,60,Chinese,Lunch,Delhi,26,50+,Premium,Individual,4,586.07
+ORD100546,269.24,20,Continental,Dinner,Mumbai,24,18-25,Fast-Food,Individual,4,289.24
+ORD100547,855.15,30,Mexican,Lunch,Delhi,39,50+,Casual,Corporate,3,885.15
+ORD100548,696.32,20,Italian,Evening Snack,Chennai,41,26-35,Fast-Food,Corporate,2,716.32
+ORD100549,960.93,45,Mexican,Lunch,Hyderabad,25,36-50,Fast-Food,Corporate,4,1005.93
+ORD100550,696.17,0,Mexican,Lunch,Chennai,42,18-25,Premium,Corporate,2,696.17
+ORD100551,1044.79,30,Italian,Evening Snack,Chennai,36,50+,Casual,Corporate,3,1074.79
+ORD100552,729.5,30,Italian,Evening Snack,Hyderabad,49,18-25,Premium,Corporate,2,759.5
+ORD100553,738.98,30,Mexican,Lunch,Chennai,58,50+,Casual,Corporate,1,768.98
+ORD100554,1070.49,0,Continental,Lunch,Bangalore,29,18-25,Fast-Food,Corporate,4,1070.49
+ORD100555,573.66,30,Continental,Lunch,Chennai,25,50+,Fast-Food,Individual,4,603.66
+ORD100556,290.72,30,Mexican,Lunch,Chennai,41,50+,Fast-Food,Individual,2,320.72
+ORD100557,180.22,0,Fast Food,Lunch,Mumbai,49,26-35,Casual,Individual,2,180.22
+ORD100558,942.89,30,Fast Food,Dinner,Chennai,33,50+,Premium,Corporate,3,972.89
+ORD100559,801.33,45,Italian,Lunch,Bangalore,17,26-35,Premium,Corporate,5,846.33
+ORD100560,889.28,60,Mexican,Breakfast,Delhi,39,50+,Premium,Corporate,3,949.28
+ORD100561,373.61,20,Chinese,Dinner,Mumbai,46,36-50,Casual,Individual,2,393.61
+ORD100562,293.19,0,Chinese,Lunch,Chennai,35,36-50,Casual,Individual,3,293.19
+ORD100563,165.27,20,Chinese,Lunch,Bangalore,19,36-50,Fast-Food,Individual,5,185.27
+ORD100564,518.12,30,Chinese,Dinner,Bangalore,63,50+,Premium,Individual,1,548.12
+ORD100565,769.41,45,Italian,Lunch,Mumbai,55,26-35,Casual,Corporate,1,814.41
+ORD100566,561.86,60,Chinese,Dinner,Chennai,49,26-35,Premium,Individual,2,621.86
+ORD100567,609.35,60,Chinese,Dinner,Hyderabad,42,50+,Premium,Individual,2,669.35
+ORD100568,1099.37,30,Italian,Breakfast,Chennai,17,36-50,Casual,Corporate,5,1129.37
+ORD100569,515.67,30,Indian,Breakfast,Chennai,61,36-50,Casual,Individual,1,545.67
+ORD100570,689.69,0,Continental,Lunch,Bangalore,29,26-35,Fast-Food,Corporate,4,689.69
+ORD100571,972.84,20,Continental,Breakfast,Delhi,17,36-50,Fast-Food,Corporate,5,992.84
+ORD100572,566.37,60,Chinese,Evening Snack,Chennai,42,18-25,Fast-Food,Individual,2,626.37
+ORD100573,803.19,30,Chinese,Dinner,Bangalore,62,26-35,Premium,Corporate,1,833.19
+ORD100574,1055.48,20,Chinese,Dinner,Bangalore,47,36-50,Premium,Corporate,2,1075.48
+ORD100575,1147.0,0,Indian,Dinner,Chennai,60,26-35,Fast-Food,Corporate,1,1147.0
+ORD100576,304.43,20,Mexican,Lunch,Delhi,17,18-25,Premium,Individual,5,324.43
+ORD100577,1122.92,30,Indian,Evening Snack,Bangalore,46,26-35,Premium,Corporate,2,1152.92
+ORD100578,666.72,45,Italian,Evening Snack,Bangalore,30,26-35,Premium,Individual,4,711.72
+ORD100579,421.16,0,Continental,Dinner,Delhi,47,26-35,Premium,Individual,2,421.16
+ORD100580,632.09,0,Chinese,Dinner,Bangalore,61,26-35,Casual,Individual,1,632.09
+ORD100581,1179.03,30,Continental,Dinner,Mumbai,63,18-25,Casual,Corporate,1,1209.03
+ORD100582,667.25,20,Indian,Breakfast,Bangalore,55,50+,Fast-Food,Individual,1,687.25
+ORD100583,495.19,0,Chinese,Dinner,Hyderabad,23,26-35,Fast-Food,Individual,4,495.19
+ORD100584,815.07,0,Continental,Dinner,Mumbai,15,26-35,Premium,Corporate,5,815.07
+ORD100585,402.15,20,Mexican,Lunch,Mumbai,56,36-50,Premium,Individual,1,422.15
+ORD100586,229.66,30,Italian,Breakfast,Hyderabad,28,26-35,Casual,Individual,4,259.66
+ORD100587,285.32,60,Chinese,Lunch,Mumbai,34,36-50,Premium,Individual,3,345.32
+ORD100588,284.45,30,Chinese,Lunch,Hyderabad,60,50+,Premium,Individual,1,314.45
+ORD100589,309.5,30,Mexican,Breakfast,Delhi,39,18-25,Fast-Food,Individual,3,339.5
+ORD100590,295.77,0,Fast Food,Lunch,Delhi,52,18-25,Premium,Individual,1,295.77
+ORD100591,822.92,30,Chinese,Dinner,Delhi,28,50+,Casual,Corporate,4,852.92
+ORD100592,340.97,30,Continental,Dinner,Hyderabad,40,18-25,Premium,Individual,3,370.97
+ORD100593,512.95,20,Chinese,Dinner,Delhi,20,50+,Premium,Individual,4,532.95
+ORD100594,1091.63,30,Fast Food,Dinner,Chennai,33,50+,Premium,Corporate,3,1121.63
+ORD100595,647.66,20,Fast Food,Dinner,Chennai,46,50+,Premium,Individual,2,667.66
+ORD100596,850.94,30,Chinese,Lunch,Delhi,31,18-25,Premium,Corporate,3,880.94
+ORD100597,330.94,30,Mexican,Breakfast,Bangalore,53,36-50,Casual,Individual,1,360.94
+ORD100598,351.9,30,Fast Food,Lunch,Bangalore,50,50+,Fast-Food,Individual,2,381.9
+ORD100599,192.91,60,Chinese,Lunch,Chennai,34,26-35,Premium,Individual,3,252.91
+ORD100600,327.38,60,Chinese,Dinner,Delhi,18,18-25,Fast-Food,Individual,5,387.38
+ORD100601,442.52,45,Chinese,Evening Snack,Chennai,16,50+,Fast-Food,Individual,5,487.52
+ORD100602,335.86,45,Mexican,Dinner,Delhi,40,50+,Casual,Individual,3,380.86
+ORD100603,243.14,0,Mexican,Breakfast,Delhi,57,26-35,Fast-Food,Individual,1,243.14
+ORD100604,276.67,20,Fast Food,Dinner,Delhi,23,36-50,Premium,Individual,4,296.67
+ORD100605,633.82,0,Continental,Dinner,Bangalore,49,36-50,Premium,Individual,2,633.82
+ORD100606,366.65,20,Mexican,Dinner,Mumbai,22,36-50,Premium,Individual,4,386.65
+ORD100607,532.48,20,Mexican,Lunch,Mumbai,29,50+,Premium,Individual,4,552.48
+ORD100608,678.59,45,Fast Food,Dinner,Delhi,40,50+,Casual,Corporate,3,723.59
+ORD100609,874.91,30,Chinese,Lunch,Mumbai,58,50+,Fast-Food,Corporate,1,904.91
+ORD100610,191.28,30,Continental,Dinner,Hyderabad,22,18-25,Casual,Individual,4,221.28
+ORD100611,989.38,20,Chinese,Dinner,Chennai,23,26-35,Fast-Food,Corporate,4,1009.38
+ORD100612,809.3,30,Continental,Dinner,Mumbai,58,50+,Casual,Corporate,1,839.3
+ORD100613,235.85,45,Italian,Dinner,Chennai,42,26-35,Casual,Individual,2,280.85
+ORD100614,1067.26,20,Chinese,Evening Snack,Bangalore,54,26-35,Casual,Corporate,1,1087.26
+ORD100615,1116.92,60,Continental,Dinner,Delhi,31,36-50,Premium,Corporate,3,1176.92
+ORD100616,214.13,20,Fast Food,Breakfast,Bangalore,42,18-25,Premium,Individual,2,234.13
+ORD100617,440.72,60,Italian,Breakfast,Hyderabad,56,50+,Casual,Individual,1,500.72
+ORD100618,996.51,0,Italian,Dinner,Bangalore,43,36-50,Fast-Food,Corporate,2,996.51
+ORD100619,935.67,30,Indian,Lunch,Hyderabad,45,36-50,Fast-Food,Corporate,2,965.67
+ORD100620,343.75,60,Indian,Dinner,Hyderabad,24,50+,Premium,Individual,4,403.75
+ORD100621,369.82,30,Indian,Lunch,Hyderabad,24,26-35,Casual,Individual,4,399.82
+ORD100622,539.0,30,Italian,Dinner,Delhi,22,36-50,Premium,Individual,4,569.0
+ORD100623,658.75,30,Continental,Breakfast,Bangalore,62,26-35,Premium,Individual,1,688.75
+ORD100624,799.17,20,Fast Food,Lunch,Mumbai,30,18-25,Premium,Corporate,4,819.17
+ORD100625,537.36,0,Fast Food,Evening Snack,Hyderabad,64,26-35,Casual,Individual,1,537.36
+ORD100626,635.66,20,Continental,Breakfast,Delhi,47,18-25,Casual,Individual,2,655.66
+ORD100627,934.84,0,Fast Food,Lunch,Hyderabad,36,26-35,Premium,Corporate,3,934.84
+ORD100628,188.52,60,Mexican,Breakfast,Chennai,36,36-50,Casual,Individual,3,248.52
+ORD100629,415.06,45,Chinese,Lunch,Mumbai,22,36-50,Fast-Food,Individual,4,460.06
+ORD100630,899.02,20,Italian,Dinner,Bangalore,20,18-25,Fast-Food,Corporate,4,919.02
+ORD100631,1089.97,45,Mexican,Dinner,Delhi,24,50+,Premium,Corporate,4,1134.97
+ORD100632,687.26,20,Italian,Lunch,Hyderabad,42,18-25,Fast-Food,Corporate,2,707.26
+ORD100633,708.72,0,Indian,Dinner,Mumbai,60,18-25,Premium,Corporate,1,708.72
+ORD100634,262.53,30,Fast Food,Breakfast,Bangalore,24,26-35,Premium,Individual,4,292.53
+ORD100635,619.78,20,Italian,Dinner,Hyderabad,41,26-35,Premium,Individual,2,639.78
+ORD100636,709.25,0,Indian,Dinner,Mumbai,26,18-25,Casual,Corporate,4,709.25
+ORD100637,404.59,30,Indian,Dinner,Delhi,45,36-50,Casual,Individual,2,434.59
+ORD100638,432.71,60,Fast Food,Dinner,Chennai,47,26-35,Casual,Individual,2,492.71
+ORD100639,546.15,30,Continental,Dinner,Mumbai,25,50+,Casual,Individual,4,576.15
+ORD100640,171.07,20,Indian,Lunch,Mumbai,54,26-35,Premium,Individual,1,191.07
+ORD100641,488.18,20,Mexican,Breakfast,Bangalore,60,26-35,Casual,Individual,1,508.18
+ORD100642,372.02,30,Chinese,Lunch,Mumbai,33,50+,Fast-Food,Individual,3,402.02
+ORD100643,493.87,30,Continental,Breakfast,Hyderabad,43,18-25,Fast-Food,Individual,2,523.87
+ORD100644,275.75,45,Continental,Dinner,Delhi,26,50+,Casual,Individual,4,320.75
+ORD100645,1085.05,60,Fast Food,Dinner,Chennai,17,18-25,Fast-Food,Corporate,5,1145.05
+ORD100646,773.27,45,Continental,Dinner,Delhi,26,18-25,Fast-Food,Corporate,4,818.27
+ORD100647,863.06,30,Chinese,Dinner,Chennai,57,18-25,Casual,Corporate,1,893.06
+ORD100648,978.63,20,Fast Food,Lunch,Hyderabad,23,50+,Premium,Corporate,4,998.63
+ORD100649,673.36,30,Italian,Evening Snack,Hyderabad,19,18-25,Premium,Individual,5,703.36
+ORD100650,241.27,30,Continental,Lunch,Hyderabad,21,36-50,Premium,Individual,4,271.27
+ORD100651,713.96,20,Indian,Breakfast,Bangalore,18,50+,Casual,Corporate,5,733.96
+ORD100652,766.18,30,Italian,Lunch,Hyderabad,32,36-50,Premium,Corporate,3,796.18
+ORD100653,932.71,20,Continental,Dinner,Bangalore,18,18-25,Premium,Corporate,5,952.71
+ORD100654,603.24,45,Continental,Lunch,Mumbai,24,26-35,Fast-Food,Individual,4,648.24
+ORD100655,283.96,20,Mexican,Dinner,Chennai,36,18-25,Premium,Individual,3,303.96
+ORD100656,447.96,45,Mexican,Dinner,Hyderabad,51,36-50,Casual,Individual,1,492.96
+ORD100657,531.24,20,Mexican,Breakfast,Chennai,43,36-50,Premium,Individual,2,551.24
+ORD100658,828.21,30,Fast Food,Lunch,Mumbai,26,50+,Fast-Food,Corporate,4,858.21
+ORD100659,749.32,20,Continental,Dinner,Bangalore,22,26-35,Fast-Food,Corporate,4,769.32
+ORD100660,523.9,30,Continental,Breakfast,Bangalore,41,50+,Fast-Food,Individual,2,553.9
+ORD100661,1185.84,0,Mexican,Dinner,Hyderabad,19,36-50,Fast-Food,Corporate,5,1185.84
+ORD100662,786.06,20,Indian,Dinner,Delhi,36,18-25,Premium,Corporate,3,806.06
+ORD100663,399.09,0,Mexican,Breakfast,Bangalore,26,26-35,Fast-Food,Individual,4,399.09
+ORD100664,256.87,30,Continental,Evening Snack,Mumbai,20,18-25,Fast-Food,Individual,4,286.87
+ORD100665,310.5,45,Continental,Dinner,Hyderabad,30,18-25,Fast-Food,Individual,4,355.5
+ORD100666,408.26,30,Chinese,Dinner,Bangalore,22,26-35,Premium,Individual,4,438.26
+ORD100667,318.72,0,Indian,Dinner,Bangalore,22,50+,Casual,Individual,4,318.72
+ORD100668,345.9,20,Italian,Dinner,Chennai,20,18-25,Fast-Food,Individual,4,365.9
+ORD100669,449.35,45,Indian,Breakfast,Bangalore,24,36-50,Fast-Food,Individual,4,494.35
+ORD100670,332.04,30,Mexican,Evening Snack,Bangalore,45,18-25,Fast-Food,Individual,2,362.04
+ORD100671,1091.6,0,Fast Food,Lunch,Delhi,52,26-35,Premium,Corporate,1,1091.6
+ORD100672,234.25,20,Mexican,Lunch,Chennai,21,26-35,Premium,Individual,4,254.25
+ORD100673,700.74,30,Indian,Lunch,Delhi,40,26-35,Fast-Food,Corporate,3,730.74
+ORD100674,580.92,0,Fast Food,Dinner,Chennai,25,50+,Casual,Individual,4,580.92
+ORD100675,1181.5,30,Chinese,Breakfast,Hyderabad,54,18-25,Fast-Food,Corporate,1,1211.5
+ORD100676,267.64,30,Chinese,Lunch,Chennai,16,50+,Casual,Individual,5,297.64
+ORD100677,567.75,20,Italian,Lunch,Bangalore,23,50+,Casual,Individual,4,587.75
+ORD100678,1167.94,30,Mexican,Breakfast,Bangalore,25,26-35,Premium,Corporate,4,1197.94
+ORD100679,1058.78,45,Continental,Breakfast,Mumbai,53,26-35,Premium,Corporate,1,1103.78
+ORD100680,1007.93,20,Italian,Lunch,Bangalore,16,50+,Premium,Corporate,5,1027.9299999999998
+ORD100681,420.8,20,Indian,Evening Snack,Delhi,57,18-25,Casual,Individual,1,440.8
+ORD100682,329.43,30,Chinese,Lunch,Mumbai,56,36-50,Casual,Individual,1,359.43
+ORD100683,852.08,0,Italian,Dinner,Hyderabad,44,50+,Casual,Corporate,2,852.08
+ORD100684,1125.84,45,Fast Food,Lunch,Mumbai,53,18-25,Premium,Corporate,1,1170.84
+ORD100685,734.6,60,Continental,Breakfast,Mumbai,52,26-35,Premium,Corporate,1,794.6
+ORD100686,750.19,60,Chinese,Dinner,Bangalore,30,26-35,Premium,Corporate,4,810.19
+ORD100687,443.98,20,Fast Food,Dinner,Hyderabad,36,18-25,Fast-Food,Individual,3,463.98
+ORD100688,957.97,30,Continental,Lunch,Mumbai,63,36-50,Casual,Corporate,1,987.97
+ORD100689,346.4,45,Continental,Dinner,Delhi,46,26-35,Casual,Individual,2,391.4
+ORD100690,489.86,20,Chinese,Lunch,Chennai,63,26-35,Fast-Food,Individual,1,509.86
+ORD100691,596.71,0,Continental,Dinner,Mumbai,49,26-35,Casual,Individual,2,596.71
+ORD100692,682.99,20,Italian,Lunch,Mumbai,51,18-25,Casual,Corporate,1,702.99
+ORD100693,404.53,45,Chinese,Evening Snack,Hyderabad,52,50+,Fast-Food,Individual,1,449.53
+ORD100694,270.58,30,Chinese,Dinner,Mumbai,15,26-35,Casual,Individual,5,300.58
+ORD100695,791.15,30,Chinese,Breakfast,Chennai,58,50+,Premium,Corporate,1,821.15
+ORD100696,453.06,30,Mexican,Lunch,Chennai,42,36-50,Fast-Food,Individual,2,483.06
+ORD100697,760.3,30,Mexican,Evening Snack,Mumbai,17,26-35,Casual,Corporate,5,790.3
+ORD100698,312.08,0,Chinese,Breakfast,Mumbai,19,26-35,Premium,Individual,5,312.08
+ORD100699,655.2,30,Fast Food,Lunch,Hyderabad,21,36-50,Casual,Individual,4,685.2
+ORD100700,709.22,30,Italian,Dinner,Delhi,39,26-35,Fast-Food,Corporate,3,739.22
+ORD100701,204.41,30,Continental,Dinner,Hyderabad,18,50+,Premium,Individual,5,234.41
+ORD100702,503.43,30,Italian,Dinner,Bangalore,34,18-25,Casual,Individual,3,533.4300000000001
+ORD100703,291.14,30,Mexican,Breakfast,Hyderabad,45,50+,Fast-Food,Individual,2,321.14
+ORD100704,216.54,60,Continental,Lunch,Delhi,38,18-25,Casual,Individual,3,276.54
+ORD100705,1189.46,20,Mexican,Dinner,Chennai,15,18-25,Casual,Corporate,5,1209.46
+ORD100706,488.47,30,Fast Food,Lunch,Mumbai,64,50+,Premium,Individual,1,518.47
+ORD100707,1000.37,30,Continental,Dinner,Chennai,64,50+,Casual,Corporate,1,1030.37
+ORD100708,417.37,45,Chinese,Breakfast,Bangalore,51,50+,Fast-Food,Individual,1,462.37
+ORD100709,865.58,30,Chinese,Dinner,Delhi,27,50+,Fast-Food,Corporate,4,895.58
+ORD100710,948.24,0,Chinese,Breakfast,Mumbai,52,36-50,Premium,Corporate,1,948.24
+ORD100711,775.42,20,Continental,Lunch,Mumbai,39,26-35,Premium,Corporate,3,795.42
+ORD100712,645.15,0,Indian,Dinner,Delhi,30,18-25,Casual,Individual,4,645.15
+ORD100713,582.43,20,Chinese,Evening Snack,Chennai,42,50+,Fast-Food,Individual,2,602.43
+ORD100714,516.31,30,Italian,Dinner,Bangalore,19,50+,Premium,Individual,5,546.31
+ORD100715,1126.01,45,Chinese,Lunch,Delhi,22,50+,Casual,Corporate,4,1171.01
+ORD100716,1022.15,30,Mexican,Dinner,Mumbai,30,36-50,Casual,Corporate,4,1052.15
+ORD100717,1163.28,0,Chinese,Lunch,Bangalore,56,50+,Fast-Food,Corporate,1,1163.28
+ORD100718,280.51,20,Chinese,Lunch,Hyderabad,53,50+,Fast-Food,Individual,1,300.51
+ORD100719,917.41,30,Indian,Dinner,Bangalore,26,50+,Casual,Corporate,4,947.41
+ORD100720,1135.26,30,Indian,Dinner,Hyderabad,20,26-35,Fast-Food,Corporate,4,1165.26
+ORD100721,340.29,45,Mexican,Dinner,Bangalore,40,36-50,Casual,Individual,3,385.29
+ORD100722,219.82,60,Fast Food,Lunch,Bangalore,38,50+,Casual,Individual,3,279.82
+ORD100723,928.18,45,Italian,Dinner,Chennai,46,18-25,Fast-Food,Corporate,2,973.18
+ORD100724,753.2,20,Italian,Lunch,Hyderabad,31,18-25,Premium,Corporate,3,773.2
+ORD100725,1033.92,30,Continental,Evening Snack,Chennai,34,18-25,Casual,Corporate,3,1063.92
+ORD100726,296.76,20,Indian,Lunch,Delhi,24,36-50,Fast-Food,Individual,4,316.76
+ORD100727,985.03,0,Mexican,Breakfast,Hyderabad,52,36-50,Casual,Corporate,1,985.03
+ORD100728,361.71,0,Chinese,Breakfast,Hyderabad,63,18-25,Casual,Individual,1,361.71
+ORD100729,321.84,20,Italian,Lunch,Delhi,36,50+,Casual,Individual,3,341.84
+ORD100730,322.48,0,Continental,Lunch,Delhi,40,36-50,Fast-Food,Individual,3,322.48
+ORD100731,1005.3,45,Continental,Lunch,Mumbai,27,18-25,Fast-Food,Corporate,4,1050.3
+ORD100732,848.46,20,Chinese,Dinner,Delhi,61,18-25,Fast-Food,Corporate,1,868.46
+ORD100733,699.22,45,Continental,Lunch,Chennai,20,50+,Premium,Corporate,4,744.22
+ORD100734,526.77,60,Indian,Lunch,Mumbai,21,26-35,Casual,Individual,4,586.77
+ORD100735,1071.06,60,Mexican,Dinner,Bangalore,17,36-50,Premium,Corporate,5,1131.06
+ORD100736,562.07,60,Indian,Lunch,Bangalore,59,50+,Casual,Individual,1,622.07
+ORD100737,1007.43,30,Mexican,Dinner,Chennai,58,18-25,Fast-Food,Corporate,1,1037.4299999999998
+ORD100738,611.09,20,Fast Food,Dinner,Bangalore,52,18-25,Casual,Individual,1,631.09
+ORD100739,545.79,30,Chinese,Lunch,Mumbai,25,50+,Casual,Individual,4,575.79
+ORD100740,635.81,45,Indian,Dinner,Mumbai,28,36-50,Casual,Individual,4,680.81
+ORD100741,466.45,45,Chinese,Dinner,Chennai,58,26-35,Premium,Individual,1,511.45
+ORD100742,934.99,60,Italian,Breakfast,Mumbai,38,26-35,Fast-Food,Corporate,3,994.99
+ORD100743,677.86,30,Continental,Lunch,Hyderabad,58,18-25,Fast-Food,Corporate,1,707.86
+ORD100744,393.82,30,Fast Food,Breakfast,Hyderabad,58,36-50,Casual,Individual,1,423.82
+ORD100745,1094.55,60,Mexican,Evening Snack,Chennai,46,26-35,Fast-Food,Corporate,2,1154.55
+ORD100746,553.09,60,Continental,Lunch,Mumbai,56,36-50,Premium,Individual,1,613.09
+ORD100747,720.73,20,Chinese,Breakfast,Bangalore,38,36-50,Premium,Corporate,3,740.73
+ORD100748,1101.8,30,Continental,Evening Snack,Bangalore,58,18-25,Fast-Food,Corporate,1,1131.8
+ORD100749,805.45,45,Mexican,Breakfast,Chennai,26,26-35,Premium,Corporate,4,850.45
+ORD100750,272.74,20,Chinese,Dinner,Mumbai,17,50+,Premium,Individual,5,292.74
+ORD100751,1136.82,45,Mexican,Dinner,Chennai,45,18-25,Fast-Food,Corporate,2,1181.82
+ORD100752,809.09,0,Italian,Dinner,Bangalore,52,26-35,Fast-Food,Corporate,1,809.09
+ORD100753,501.65,20,Mexican,Evening Snack,Chennai,57,26-35,Casual,Individual,1,521.65
+ORD100754,296.24,20,Continental,Dinner,Bangalore,34,26-35,Casual,Individual,3,316.24
+ORD100755,983.73,30,Indian,Dinner,Mumbai,24,26-35,Premium,Corporate,4,1013.73
+ORD100756,801.08,0,Chinese,Lunch,Bangalore,28,26-35,Fast-Food,Corporate,4,801.08
+ORD100757,710.13,0,Italian,Breakfast,Mumbai,48,36-50,Premium,Corporate,2,710.13
+ORD100758,1088.59,60,Indian,Lunch,Hyderabad,34,18-25,Fast-Food,Corporate,3,1148.59
+ORD100759,978.03,20,Indian,Lunch,Bangalore,43,36-50,Premium,Corporate,2,998.03
+ORD100760,309.26,20,Indian,Dinner,Chennai,36,50+,Premium,Individual,3,329.26
+ORD100761,477.31,30,Chinese,Lunch,Bangalore,51,26-35,Premium,Individual,1,507.31
+ORD100762,410.91,20,Chinese,Lunch,Bangalore,35,18-25,Casual,Individual,3,430.91
+ORD100763,931.14,45,Indian,Dinner,Bangalore,39,26-35,Fast-Food,Corporate,3,976.14
+ORD100764,185.21,20,Mexican,Dinner,Delhi,15,18-25,Premium,Individual,5,205.21
+ORD100765,748.38,30,Mexican,Breakfast,Hyderabad,51,36-50,Casual,Corporate,1,778.38
+ORD100766,950.58,30,Indian,Dinner,Hyderabad,28,18-25,Premium,Corporate,4,980.58
+ORD100767,1070.6,60,Mexican,Breakfast,Mumbai,22,50+,Premium,Corporate,4,1130.6
+ORD100768,509.19,20,Indian,Evening Snack,Mumbai,51,50+,Fast-Food,Individual,1,529.19
+ORD100769,1012.32,20,Chinese,Dinner,Bangalore,35,18-25,Premium,Corporate,3,1032.3200000000002
+ORD100770,266.16,60,Fast Food,Lunch,Mumbai,39,18-25,Fast-Food,Individual,3,326.16
+ORD100771,1038.77,30,Mexican,Evening Snack,Delhi,19,18-25,Casual,Corporate,5,1068.77
+ORD100772,283.86,30,Italian,Dinner,Bangalore,27,18-25,Casual,Individual,4,313.86
+ORD100773,567.15,20,Chinese,Dinner,Bangalore,55,50+,Premium,Individual,1,587.15
+ORD100774,987.16,30,Fast Food,Lunch,Chennai,58,26-35,Casual,Corporate,1,1017.16
+ORD100775,307.41,20,Indian,Dinner,Mumbai,43,18-25,Fast-Food,Individual,2,327.41
+ORD100776,390.71,20,Italian,Evening Snack,Delhi,47,18-25,Fast-Food,Individual,2,410.71
+ORD100777,908.37,30,Fast Food,Breakfast,Hyderabad,16,50+,Casual,Corporate,5,938.37
+ORD100778,906.04,60,Italian,Lunch,Bangalore,53,50+,Fast-Food,Corporate,1,966.04
+ORD100779,823.21,20,Chinese,Breakfast,Bangalore,58,36-50,Fast-Food,Corporate,1,843.21
+ORD100780,878.65,20,Italian,Evening Snack,Delhi,52,18-25,Premium,Corporate,1,898.65
+ORD100781,719.86,20,Fast Food,Dinner,Delhi,18,36-50,Premium,Corporate,5,739.86
+ORD100782,414.39,30,Mexican,Lunch,Hyderabad,16,50+,Fast-Food,Individual,5,444.39
+ORD100783,512.98,30,Italian,Breakfast,Delhi,48,50+,Casual,Individual,2,542.98
+ORD100784,340.68,20,Italian,Dinner,Chennai,42,26-35,Fast-Food,Individual,2,360.68
+ORD100785,1103.87,45,Continental,Lunch,Hyderabad,62,18-25,Premium,Corporate,1,1148.87
+ORD100786,762.56,20,Italian,Dinner,Delhi,50,36-50,Casual,Corporate,2,782.56
+ORD100787,570.89,20,Italian,Lunch,Mumbai,46,50+,Fast-Food,Individual,2,590.89
+ORD100788,635.11,0,Mexican,Dinner,Mumbai,29,50+,Casual,Individual,4,635.11
+ORD100789,1144.65,0,Italian,Lunch,Hyderabad,17,36-50,Casual,Corporate,5,1144.65
+ORD100790,311.02,0,Italian,Evening Snack,Mumbai,38,26-35,Casual,Individual,3,311.02
+ORD100791,765.54,20,Fast Food,Breakfast,Bangalore,48,50+,Fast-Food,Corporate,2,785.54
+ORD100792,681.18,30,Chinese,Lunch,Chennai,30,18-25,Premium,Corporate,4,711.18
+ORD100793,792.03,0,Continental,Dinner,Delhi,29,50+,Casual,Corporate,4,792.03
+ORD100794,169.02,0,Italian,Dinner,Bangalore,26,18-25,Casual,Individual,4,169.02
+ORD100795,1065.73,0,Indian,Dinner,Bangalore,29,36-50,Fast-Food,Corporate,4,1065.73
+ORD100796,1128.72,20,Continental,Evening Snack,Chennai,63,18-25,Premium,Corporate,1,1148.72
+ORD100797,743.39,0,Mexican,Lunch,Mumbai,51,36-50,Premium,Corporate,1,743.39
+ORD100798,881.48,0,Italian,Lunch,Hyderabad,20,18-25,Fast-Food,Corporate,4,881.48
+ORD100799,1118.62,60,Fast Food,Evening Snack,Delhi,52,36-50,Casual,Corporate,1,1178.62
+ORD100800,892.6,30,Chinese,Dinner,Mumbai,21,18-25,Fast-Food,Corporate,4,922.6
+ORD100801,310.17,30,Chinese,Dinner,Chennai,21,26-35,Premium,Individual,4,340.17
+ORD100802,755.1,45,Mexican,Dinner,Mumbai,42,18-25,Casual,Corporate,2,800.1
+ORD100803,787.05,30,Mexican,Dinner,Bangalore,54,18-25,Casual,Corporate,1,817.05
+ORD100804,595.34,30,Indian,Dinner,Chennai,20,26-35,Premium,Individual,4,625.34
+ORD100805,923.27,30,Fast Food,Lunch,Chennai,28,50+,Casual,Corporate,4,953.27
+ORD100806,1131.09,30,Mexican,Lunch,Chennai,58,50+,Fast-Food,Corporate,1,1161.09
+ORD100807,1121.85,60,Mexican,Lunch,Bangalore,22,18-25,Premium,Corporate,4,1181.85
+ORD100808,623.38,0,Continental,Evening Snack,Hyderabad,52,26-35,Premium,Individual,1,623.38
+ORD100809,268.9,20,Italian,Lunch,Delhi,20,18-25,Casual,Individual,4,288.9
+ORD100810,1184.08,0,Fast Food,Lunch,Hyderabad,42,36-50,Premium,Corporate,2,1184.08
+ORD100811,1030.84,45,Indian,Lunch,Bangalore,57,36-50,Fast-Food,Corporate,1,1075.84
+ORD100812,280.9,20,Indian,Dinner,Hyderabad,33,18-25,Premium,Individual,3,300.9
+ORD100813,1116.88,60,Fast Food,Evening Snack,Hyderabad,19,50+,Casual,Corporate,5,1176.88
+ORD100814,1063.39,20,Indian,Lunch,Chennai,19,50+,Premium,Corporate,5,1083.39
+ORD100815,694.78,20,Italian,Evening Snack,Chennai,33,18-25,Casual,Corporate,3,714.78
+ORD100816,770.84,20,Mexican,Breakfast,Mumbai,40,18-25,Casual,Corporate,3,790.84
+ORD100817,568.95,30,Mexican,Dinner,Chennai,55,36-50,Fast-Food,Individual,1,598.95
+ORD100818,207.5,30,Continental,Lunch,Chennai,42,50+,Premium,Individual,2,237.5
+ORD100819,501.96,20,Continental,Dinner,Bangalore,53,18-25,Fast-Food,Individual,1,521.96
+ORD100820,993.0,30,Indian,Lunch,Bangalore,62,36-50,Fast-Food,Corporate,1,1023.0
+ORD100821,154.86,20,Fast Food,Lunch,Delhi,32,50+,Premium,Individual,3,174.86
+ORD100822,500.17,30,Italian,Dinner,Delhi,18,26-35,Fast-Food,Individual,5,530.1700000000001
+ORD100823,568.08,30,Mexican,Lunch,Chennai,46,36-50,Fast-Food,Individual,2,598.08
+ORD100824,714.27,45,Italian,Breakfast,Mumbai,18,50+,Casual,Corporate,5,759.27
+ORD100825,1115.85,45,Fast Food,Lunch,Bangalore,35,50+,Fast-Food,Corporate,3,1160.85
+ORD100826,513.66,20,Mexican,Evening Snack,Mumbai,22,36-50,Premium,Individual,4,533.66
+ORD100827,514.3,0,Italian,Lunch,Chennai,26,26-35,Casual,Individual,4,514.3
+ORD100828,924.38,45,Italian,Lunch,Mumbai,28,36-50,Fast-Food,Corporate,4,969.38
+ORD100829,624.83,0,Indian,Breakfast,Hyderabad,46,50+,Fast-Food,Individual,2,624.83
+ORD100830,385.84,20,Continental,Dinner,Delhi,40,18-25,Premium,Individual,3,405.84
+ORD100831,625.06,0,Chinese,Evening Snack,Bangalore,15,18-25,Fast-Food,Individual,5,625.06
+ORD100832,297.9,20,Italian,Dinner,Mumbai,54,36-50,Premium,Individual,1,317.9
+ORD100833,335.21,30,Fast Food,Evening Snack,Delhi,28,50+,Fast-Food,Individual,4,365.21
+ORD100834,673.29,20,Chinese,Evening Snack,Hyderabad,56,18-25,Fast-Food,Individual,1,693.29
+ORD100835,589.87,60,Indian,Lunch,Bangalore,58,50+,Premium,Individual,1,649.87
+ORD100836,1110.59,30,Italian,Lunch,Hyderabad,45,36-50,Casual,Corporate,2,1140.59
+ORD100837,530.51,30,Indian,Breakfast,Chennai,15,18-25,Premium,Individual,5,560.51
+ORD100838,759.62,20,Chinese,Lunch,Mumbai,15,50+,Casual,Corporate,5,779.62
+ORD100839,813.88,0,Mexican,Lunch,Chennai,57,18-25,Casual,Corporate,1,813.88
+ORD100840,163.75,30,Italian,Lunch,Chennai,60,36-50,Premium,Individual,1,193.75
+ORD100841,846.71,30,Indian,Lunch,Hyderabad,22,50+,Premium,Corporate,4,876.71
+ORD100842,336.94,30,Fast Food,Dinner,Mumbai,38,18-25,Fast-Food,Individual,3,366.94
+ORD100843,1159.12,20,Chinese,Breakfast,Delhi,64,36-50,Fast-Food,Corporate,1,1179.12
+ORD100844,306.1,30,Italian,Lunch,Hyderabad,37,18-25,Casual,Individual,3,336.1
+ORD100845,585.36,30,Chinese,Breakfast,Delhi,36,18-25,Fast-Food,Individual,3,615.36
+ORD100846,239.62,30,Fast Food,Evening Snack,Bangalore,23,26-35,Premium,Individual,4,269.62
+ORD100847,1196.72,30,Mexican,Dinner,Chennai,56,26-35,Casual,Corporate,1,1226.72
+ORD100848,677.3,60,Italian,Evening Snack,Chennai,28,36-50,Fast-Food,Corporate,4,737.3
+ORD100849,775.15,30,Indian,Breakfast,Chennai,45,26-35,Fast-Food,Corporate,2,805.15
+ORD100850,220.43,0,Indian,Lunch,Bangalore,23,36-50,Premium,Individual,4,220.43
+ORD100851,937.46,30,Indian,Lunch,Chennai,36,26-35,Premium,Corporate,3,967.46
+ORD100852,370.4,30,Indian,Lunch,Hyderabad,38,18-25,Fast-Food,Individual,3,400.4
+ORD100853,1092.96,0,Italian,Dinner,Mumbai,35,36-50,Casual,Corporate,3,1092.96
+ORD100854,365.4,20,Mexican,Dinner,Bangalore,44,36-50,Casual,Individual,2,385.4
+ORD100855,350.22,30,Mexican,Dinner,Hyderabad,20,18-25,Premium,Individual,4,380.22
+ORD100856,188.38,30,Indian,Breakfast,Mumbai,31,36-50,Premium,Individual,3,218.38
+ORD100857,645.67,45,Fast Food,Lunch,Hyderabad,20,36-50,Premium,Individual,4,690.67
+ORD100858,743.08,45,Indian,Breakfast,Delhi,47,26-35,Fast-Food,Corporate,2,788.08
+ORD100859,218.99,0,Indian,Lunch,Bangalore,28,36-50,Fast-Food,Individual,4,218.99
+ORD100860,964.3,30,Indian,Breakfast,Mumbai,47,50+,Premium,Corporate,2,994.3
+ORD100861,625.95,30,Italian,Dinner,Mumbai,18,18-25,Casual,Individual,5,655.95
+ORD100862,700.61,20,Mexican,Dinner,Chennai,57,26-35,Premium,Corporate,1,720.61
+ORD100863,612.8,0,Continental,Dinner,Delhi,45,26-35,Premium,Individual,2,612.8
+ORD100864,570.8,0,Continental,Breakfast,Delhi,22,50+,Casual,Individual,4,570.8
+ORD100865,737.62,0,Mexican,Lunch,Hyderabad,38,18-25,Casual,Corporate,3,737.62
+ORD100866,313.0,45,Fast Food,Dinner,Mumbai,44,18-25,Casual,Individual,2,358.0
+ORD100867,341.02,0,Fast Food,Evening Snack,Delhi,15,26-35,Casual,Individual,5,341.02
+ORD100868,1054.87,20,Indian,Lunch,Mumbai,55,36-50,Fast-Food,Corporate,1,1074.87
+ORD100869,1143.42,20,Continental,Dinner,Delhi,28,26-35,Fast-Food,Corporate,4,1163.42
+ORD100870,541.97,30,Italian,Lunch,Hyderabad,53,18-25,Premium,Individual,1,571.97
+ORD100871,434.28,0,Indian,Dinner,Mumbai,35,50+,Fast-Food,Individual,3,434.28
+ORD100872,826.2,0,Mexican,Lunch,Mumbai,29,26-35,Premium,Corporate,4,826.2
+ORD100873,579.17,20,Mexican,Dinner,Delhi,49,18-25,Premium,Individual,2,599.17
+ORD100874,176.66,20,Chinese,Lunch,Bangalore,25,26-35,Casual,Individual,4,196.66
+ORD100875,313.96,20,Italian,Evening Snack,Hyderabad,27,36-50,Casual,Individual,4,333.96
+ORD100876,901.77,30,Italian,Breakfast,Bangalore,44,26-35,Fast-Food,Corporate,2,931.77
+ORD100877,841.87,0,Chinese,Lunch,Bangalore,29,26-35,Fast-Food,Corporate,4,841.87
+ORD100878,178.45,0,Fast Food,Breakfast,Hyderabad,58,18-25,Fast-Food,Individual,1,178.45
+ORD100879,383.07,20,Chinese,Lunch,Bangalore,17,18-25,Fast-Food,Individual,5,403.07
+ORD100880,392.63,45,Chinese,Breakfast,Hyderabad,27,18-25,Casual,Individual,4,437.63
+ORD100881,855.49,0,Fast Food,Lunch,Mumbai,59,26-35,Casual,Corporate,1,855.49
+ORD100882,170.7,60,Fast Food,Breakfast,Mumbai,57,36-50,Fast-Food,Individual,1,230.7
+ORD100883,259.31,45,Fast Food,Lunch,Delhi,61,50+,Premium,Individual,1,304.31
+ORD100884,989.91,20,Italian,Lunch,Chennai,29,50+,Casual,Corporate,4,1009.91
+ORD100885,337.47,30,Chinese,Lunch,Bangalore,47,18-25,Casual,Individual,2,367.47
+ORD100886,835.38,30,Italian,Lunch,Delhi,54,18-25,Casual,Corporate,1,865.38
+ORD100887,400.09,30,Fast Food,Lunch,Chennai,37,26-35,Casual,Individual,3,430.09
+ORD100888,254.41,30,Chinese,Breakfast,Hyderabad,22,50+,Fast-Food,Individual,4,284.41
+ORD100889,405.33,30,Continental,Dinner,Chennai,20,18-25,Fast-Food,Individual,4,435.33
+ORD100890,908.38,0,Fast Food,Evening Snack,Delhi,36,36-50,Premium,Corporate,3,908.38
+ORD100891,1048.48,30,Mexican,Lunch,Mumbai,16,36-50,Casual,Corporate,5,1078.48
+ORD100892,1021.73,30,Italian,Dinner,Mumbai,48,18-25,Fast-Food,Corporate,2,1051.73
+ORD100893,567.04,20,Indian,Breakfast,Delhi,41,18-25,Fast-Food,Individual,2,587.04
+ORD100894,851.49,60,Indian,Dinner,Delhi,16,50+,Casual,Corporate,5,911.49
+ORD100895,365.23,0,Chinese,Breakfast,Chennai,39,50+,Fast-Food,Individual,3,365.23
+ORD100896,457.81,60,Chinese,Evening Snack,Hyderabad,63,26-35,Fast-Food,Individual,1,517.81
+ORD100897,1091.15,30,Italian,Evening Snack,Chennai,38,50+,Fast-Food,Corporate,3,1121.15
+ORD100898,163.65,30,Continental,Breakfast,Chennai,20,36-50,Premium,Individual,4,193.65
+ORD100899,239.78,45,Indian,Dinner,Delhi,39,36-50,Fast-Food,Individual,3,284.78
+ORD100900,368.28,45,Italian,Evening Snack,Bangalore,32,18-25,Casual,Individual,3,413.28
+ORD100901,177.86,20,Fast Food,Lunch,Mumbai,21,50+,Casual,Individual,4,197.86
+ORD100902,340.51,30,Indian,Dinner,Delhi,16,26-35,Casual,Individual,5,370.51
+ORD100903,762.19,0,Mexican,Lunch,Chennai,36,36-50,Fast-Food,Corporate,3,762.19
+ORD100904,592.5,20,Chinese,Lunch,Bangalore,28,36-50,Premium,Individual,4,612.5
+ORD100905,1087.31,60,Fast Food,Breakfast,Chennai,52,26-35,Fast-Food,Corporate,1,1147.31
+ORD100906,1008.32,20,Italian,Lunch,Chennai,32,26-35,Casual,Corporate,3,1028.3200000000002
+ORD100907,508.91,0,Chinese,Evening Snack,Mumbai,16,36-50,Premium,Individual,5,508.91
+ORD100908,422.39,30,Italian,Dinner,Hyderabad,18,36-50,Premium,Individual,5,452.39
+ORD100909,548.68,20,Chinese,Dinner,Bangalore,34,26-35,Fast-Food,Individual,3,568.68
+ORD100910,769.81,20,Chinese,Lunch,Hyderabad,57,36-50,Casual,Corporate,1,789.81
+ORD100911,431.47,30,Italian,Dinner,Mumbai,62,18-25,Fast-Food,Individual,1,461.47
+ORD100912,805.36,30,Mexican,Breakfast,Mumbai,59,18-25,Casual,Corporate,1,835.36
+ORD100913,579.88,20,Indian,Dinner,Mumbai,30,26-35,Premium,Individual,4,599.88
+ORD100914,729.65,30,Italian,Dinner,Delhi,42,50+,Fast-Food,Corporate,2,759.65
+ORD100915,607.93,60,Fast Food,Breakfast,Mumbai,56,26-35,Premium,Individual,1,667.93
+ORD100916,459.19,60,Mexican,Lunch,Chennai,46,26-35,Casual,Individual,2,519.19
+ORD100917,1145.88,30,Continental,Evening Snack,Chennai,58,50+,Premium,Corporate,1,1175.88
+ORD100918,951.79,0,Fast Food,Dinner,Mumbai,22,50+,Premium,Corporate,4,951.79
+ORD100919,297.12,20,Chinese,Dinner,Bangalore,21,50+,Premium,Individual,4,317.12
+ORD100920,1061.89,45,Chinese,Lunch,Hyderabad,51,18-25,Fast-Food,Corporate,1,1106.89
+ORD100921,661.8,20,Indian,Evening Snack,Chennai,39,36-50,Casual,Individual,3,681.8
+ORD100922,1089.28,60,Indian,Dinner,Chennai,63,18-25,Premium,Corporate,1,1149.28
+ORD100923,989.85,20,Fast Food,Dinner,Delhi,52,36-50,Premium,Corporate,1,1009.85
+ORD100924,596.47,45,Chinese,Lunch,Chennai,40,18-25,Premium,Individual,3,641.47
+ORD100925,173.59,0,Chinese,Lunch,Chennai,19,36-50,Premium,Individual,5,173.59
+ORD100926,432.11,20,Italian,Evening Snack,Mumbai,39,18-25,Casual,Individual,3,452.11
+ORD100927,718.72,30,Indian,Lunch,Hyderabad,42,50+,Casual,Corporate,2,748.72
+ORD100928,815.15,45,Italian,Evening Snack,Mumbai,27,26-35,Fast-Food,Corporate,4,860.15
+ORD100929,420.78,30,Italian,Dinner,Bangalore,35,18-25,Casual,Individual,3,450.78
+ORD100930,296.32,0,Chinese,Breakfast,Chennai,50,36-50,Casual,Individual,2,296.32
+ORD100931,1026.68,45,Indian,Evening Snack,Bangalore,26,50+,Premium,Corporate,4,1071.68
+ORD100932,1183.62,30,Mexican,Dinner,Bangalore,19,18-25,Fast-Food,Corporate,5,1213.62
+ORD100933,701.97,0,Indian,Lunch,Chennai,42,18-25,Fast-Food,Corporate,2,701.97
+ORD100934,330.26,20,Italian,Dinner,Chennai,52,50+,Premium,Individual,1,350.26
+ORD100935,435.92,30,Italian,Dinner,Delhi,29,18-25,Fast-Food,Individual,4,465.92
+ORD100936,169.31,20,Chinese,Dinner,Mumbai,28,26-35,Casual,Individual,4,189.31
+ORD100937,1110.01,45,Continental,Lunch,Delhi,57,18-25,Fast-Food,Corporate,1,1155.01
+ORD100938,273.64,20,Indian,Dinner,Bangalore,39,26-35,Premium,Individual,3,293.64
+ORD100939,755.34,30,Mexican,Breakfast,Delhi,62,26-35,Fast-Food,Corporate,1,785.34
+ORD100940,437.76,20,Indian,Lunch,Bangalore,24,50+,Fast-Food,Individual,4,457.76
+ORD100941,731.89,30,Indian,Dinner,Mumbai,62,18-25,Fast-Food,Corporate,1,761.89
+ORD100942,833.99,20,Italian,Dinner,Bangalore,15,50+,Premium,Corporate,5,853.99
+ORD100943,1021.23,20,Fast Food,Lunch,Bangalore,44,18-25,Casual,Corporate,2,1041.23
+ORD100944,366.74,20,Chinese,Dinner,Chennai,44,18-25,Fast-Food,Individual,2,386.74
+ORD100945,161.55,0,Mexican,Breakfast,Chennai,32,36-50,Casual,Individual,3,161.55
+ORD100946,293.73,0,Mexican,Dinner,Mumbai,54,18-25,Casual,Individual,1,293.73
+ORD100947,1095.02,20,Indian,Breakfast,Bangalore,39,50+,Casual,Corporate,3,1115.02
+ORD100948,1067.58,0,Indian,Breakfast,Chennai,56,26-35,Fast-Food,Corporate,1,1067.58
+ORD100949,777.28,0,Fast Food,Breakfast,Chennai,19,18-25,Casual,Corporate,5,777.28
+ORD100950,780.54,60,Fast Food,Dinner,Hyderabad,47,36-50,Fast-Food,Corporate,2,840.54
+ORD100951,848.29,20,Mexican,Dinner,Chennai,37,50+,Fast-Food,Corporate,3,868.29
+ORD100952,334.14,20,Mexican,Evening Snack,Hyderabad,22,18-25,Fast-Food,Individual,4,354.14
+ORD100953,1110.13,20,Continental,Dinner,Bangalore,42,50+,Casual,Corporate,2,1130.13
+ORD100954,589.71,30,Continental,Dinner,Hyderabad,19,36-50,Fast-Food,Individual,5,619.71
+ORD100955,552.3,30,Mexican,Lunch,Mumbai,34,36-50,Premium,Individual,3,582.3
+ORD100956,694.86,20,Chinese,Lunch,Bangalore,62,50+,Premium,Corporate,1,714.86
+ORD100957,199.31,20,Continental,Dinner,Chennai,63,18-25,Premium,Individual,1,219.31
+ORD100958,324.6,30,Italian,Evening Snack,Hyderabad,53,26-35,Fast-Food,Individual,1,354.6
+ORD100959,924.94,60,Italian,Lunch,Mumbai,36,36-50,Premium,Corporate,3,984.94
+ORD100960,236.94,45,Fast Food,Dinner,Hyderabad,30,18-25,Fast-Food,Individual,4,281.94
+ORD100961,783.31,0,Italian,Lunch,Hyderabad,64,18-25,Fast-Food,Corporate,1,783.31
+ORD100962,407.62,30,Indian,Lunch,Bangalore,32,26-35,Fast-Food,Individual,3,437.62
+ORD100963,558.76,0,Continental,Lunch,Hyderabad,25,36-50,Casual,Individual,4,558.76
+ORD100964,453.13,30,Fast Food,Lunch,Bangalore,50,36-50,Premium,Individual,2,483.13
+ORD100965,523.46,20,Fast Food,Evening Snack,Mumbai,46,18-25,Fast-Food,Individual,2,543.46
+ORD100966,905.0,20,Indian,Lunch,Hyderabad,24,18-25,Premium,Corporate,4,925.0
+ORD100967,461.98,30,Chinese,Evening Snack,Hyderabad,33,26-35,Premium,Individual,3,491.98
+ORD100968,744.72,30,Mexican,Lunch,Mumbai,57,26-35,Casual,Corporate,1,774.72
+ORD100969,649.85,30,Mexican,Dinner,Chennai,16,36-50,Premium,Individual,5,679.85
+ORD100970,846.85,0,Chinese,Breakfast,Bangalore,34,50+,Fast-Food,Corporate,3,846.85
+ORD100971,1133.67,30,Continental,Dinner,Mumbai,45,36-50,Fast-Food,Corporate,2,1163.67
+ORD100972,919.2,45,Fast Food,Breakfast,Bangalore,28,18-25,Premium,Corporate,4,964.2
+ORD100973,375.69,0,Chinese,Dinner,Bangalore,47,36-50,Premium,Individual,2,375.69
+ORD100974,182.74,20,Fast Food,Dinner,Chennai,19,50+,Casual,Individual,5,202.74
+ORD100975,425.38,30,Mexican,Dinner,Hyderabad,55,26-35,Fast-Food,Individual,1,455.38
+ORD100976,774.83,20,Mexican,Lunch,Chennai,62,50+,Premium,Corporate,1,794.83
+ORD100977,204.0,30,Fast Food,Dinner,Chennai,20,50+,Premium,Individual,4,234.0
+ORD100978,671.18,30,Chinese,Lunch,Bangalore,62,50+,Fast-Food,Individual,1,701.18
+ORD100979,776.68,60,Indian,Lunch,Chennai,45,26-35,Premium,Corporate,2,836.68
+ORD100980,500.96,60,Fast Food,Dinner,Hyderabad,44,50+,Casual,Individual,2,560.96
+ORD100981,959.46,20,Chinese,Dinner,Bangalore,21,50+,Premium,Corporate,4,979.46
+ORD100982,261.93,20,Indian,Lunch,Mumbai,37,50+,Premium,Individual,3,281.93
+ORD100983,228.89,20,Continental,Evening Snack,Hyderabad,57,18-25,Casual,Individual,1,248.89
+ORD100984,914.6,0,Fast Food,Lunch,Hyderabad,53,50+,Casual,Corporate,1,914.6
+ORD100985,670.27,20,Mexican,Lunch,Mumbai,51,26-35,Casual,Individual,1,690.27
+ORD100986,872.82,30,Italian,Evening Snack,Bangalore,36,50+,Fast-Food,Corporate,3,902.82
+ORD100987,606.57,45,Italian,Breakfast,Hyderabad,25,50+,Premium,Individual,4,651.57
+ORD100988,408.72,45,Mexican,Evening Snack,Bangalore,28,26-35,Premium,Individual,4,453.72
+ORD100989,1010.06,0,Chinese,Dinner,Delhi,54,50+,Casual,Corporate,1,1010.06
+ORD100990,989.39,30,Fast Food,Lunch,Bangalore,35,26-35,Fast-Food,Corporate,3,1019.39
+ORD100991,879.43,30,Fast Food,Lunch,Chennai,21,50+,Casual,Corporate,4,909.43
+ORD100992,435.75,20,Fast Food,Lunch,Hyderabad,26,26-35,Premium,Individual,4,455.75
+ORD100993,769.74,20,Mexican,Evening Snack,Delhi,19,50+,Fast-Food,Corporate,5,789.74
+ORD100994,529.02,45,Chinese,Lunch,Mumbai,22,50+,Fast-Food,Individual,4,574.02
+ORD100995,246.16,20,Chinese,Lunch,Bangalore,33,18-25,Premium,Individual,3,266.16
+ORD100996,1113.18,60,Mexican,Evening Snack,Chennai,37,18-25,Fast-Food,Corporate,3,1173.18
+ORD100997,293.66,30,Italian,Lunch,Hyderabad,54,50+,Fast-Food,Individual,1,323.66
+ORD100998,1147.75,20,Mexican,Dinner,Hyderabad,60,50+,Casual,Corporate,1,1167.75
+ORD100999,618.31,20,Fast Food,Dinner,Chennai,25,36-50,Fast-Food,Individual,4,638.31
