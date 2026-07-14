@@ -105,39 +105,6 @@ The data is designed to be injected directly into a BI tool (like Tableau). The 
 
 ---
 
-## 🚀 Installation & Usage
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/food-delivery-analytics.git
-   cd food-delivery-analytics
-   ```
-
-2. **Install Dependencies:**
-   ```bash
-   pip install pandas numpy matplotlib seaborn
-   ```
-
-3. **Execute Data Pipeline:**
-   ```bash
-   # Enriches the raw data and processes KPIs
-   python phase2_data_preparation.py 
-   ```
-
-4. **Regenerate Visual Architecture:**
-   ```bash
-   # Plots and saves insights to the /visualizations/ dir
-   python phase3_visualizations.py
-   ```
-
-5. **Re-export Technical Strategy CSVs:**
-   ```bash
-   # Constructs the BI setup guide & Methodology tracker
-   python generate_documentation_csvs.py
-   ```
-
----
-
 ## 🏆 Results & Conclusion
 **Ultimate Recommendation: NO-GO ON EXPANSION.** 
 While the company demonstrates incredibly strong, identical product-market fit across multiple metros yielding heavy ~₹35M transaction volumes, scaling currently means replicating a deeply flawed 2.6-star experience.
