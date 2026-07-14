@@ -34,7 +34,7 @@ The analysis specifically targets three distinct business personas:
 ## 📂 Folder Structure
 
 ```text
-📁 e_commerce_analytics
+📁 
 ├── 📊 Data Files
 │   ├── food_delivery_data.csv                 # Raw dataset (50,000 orders, 7 cols)
 │   └── final_enriched_data.csv                # Final engineered dataset (12 cols)
@@ -134,6 +134,3 @@ While the company demonstrates incredibly strong, identical product-market fit a
 **Action Plan:** Hyper-surge driver fleets specifically dedicated to the dominant Lunch & Dinner blocks to crush the 40-60 minute dispatch times down to a strict `<30 minute SLA`. Restore customer ratings in existing environments effectively before launching into new operational territories.
 
 ---
-
-## 📜 License
-This project is licensed under the MIT License. Feel free to use it for portfolio modeling or BI practice!
